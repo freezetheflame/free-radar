@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>白嫖雷达 · 大模型免费额度与试用聚合</title>
+<meta name="description" content="自动巡检官方定价页，聚合大模型 API、Harness、Agent、云 GPU 与学生计划的免费额度与试用信息，标注最近核验时间。">
+<style>
+  :root{--bg:#0e1116;--card:#161b22;--line:#232a34;--fg:#e6edf3;--mut:#8b949e;--accent:#3fb950;--warn:#d29922;--blue:#58a6ff}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Noto Sans CJK SC",sans-serif}
+  header{max-width:1080px;margin:0 auto;padding:36px 20px 8px}
+  h1{margin:0 0 8px;font-size:28px;letter-spacing:.5px}
+  .sub{color:var(--mut);font-size:13.5px}
+  .sub code{background:#1f2630;padding:1px 5px;border-radius:4px;color:#c9d1d9}
+  .stats{display:flex;gap:18px;flex-wrap:wrap;margin:18px 0 6px;color:var(--mut);font-size:13px}
+  .stats b{color:var(--fg);font-size:16px}
+  .controls{max-width:1080px;margin:14px auto 0;padding:0 20px;display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+  .tabs{display:flex;gap:6px;flex-wrap:wrap}
+  .tab{padding:6px 12px;border:1px solid var(--line);border-radius:999px;background:transparent;color:var(--mut);cursor:pointer;font-size:13px}
+  .tab.active{border-color:var(--accent);color:var(--accent);background:rgba(63,185,80,.08)}
+  input[type=search]{flex:1;min-width:200px;padding:8px 12px;border-radius:8px;border:1px solid var(--line);background:var(--card);color:var(--fg);outline:none}
+  main{max-width:1080px;margin:0 auto;padding:18px 20px 60px;display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:14px}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 15px;display:flex;flex-direction:column;gap:8px}
+  .card:hover{border-color:#30404f}
+  .top{display:flex;justify-content:space-between;align-items:flex-start;gap:8px}
+  .name{font-weight:650;font-size:15.5px}
+  .badge{font-size:11px;padding:2px 7px;border-radius:999px;border:1px solid var(--line);color:var(--mut);white-space:nowrap}
+  .badge.new{color:#0d1117;background:var(--accent);border-color:var(--accent);font-weight:700}
+  .badge.cn{color:var(--blue);border-color:rgba(88,166,255,.4)}
+  .snippet{color:#c9d1d9;font-size:13.5px}
+  .meta{margin-top:auto;display:flex;justify-content:space-between;align-items:center;font-size:12px;color:var(--mut)}
+  a{color:var(--accent);text-decoration:none}
+  a:hover{text-decoration:underline}
+  footer{max-width:1080px;margin:0 auto;padding:0 20px 60px;color:var(--mut);font-size:12.5px;line-height:1.8}
+  .err{color:var(--warn)}
+</style>
+</head>
+<body>
+<header>
+  <h1>白嫖雷达</h1>
+  <div class="sub">自动巡检官方定价页 · 只收录<strong>官方页面原文片段</strong>，不猜额度、不编数字 · 数据每次构建刷新</div>
+  <div class="stats" id="stats"></div>
+</header>
+
+<div class="controls">
+  <div class="tabs" id="tabs"></div>
+  <input type="search" id="q" placeholder="搜 provider 或关键词：免费 / credit / student / H100 …">
+</div>
+
+<main id="grid"></main>
+
+<footer>
+  <div><strong>方法</strong>：抓取各厂商官方 pricing / free tier / 试用页面，抽取含「免费 / trial / credit / 额度」的原文句子；每条都带最近核验时间与原始链接。额度与条款以官方页面为准，本站在链条上只做“提醒与串联”。</div>
+  <div style="margin-top:8px"><strong>不收录</strong>：多账号刷额度、临时邮箱注册、绕过地区限制、账号买卖——这些违反 ToS，且会把你的 key 和身份置于风险中。</div>
+  <div style="margin-top:8px" id="foot-meta"></div>
+</footer>
+
+<script>
+const TYPE={api:"API",harness:"Harness",agent:"Agent",gpu:"云 GPU",student:"学生/创业计划"};
+let DATA=null, type="all", q="";
+
+fetch("data.json").then(r=>r.json()).then(d=>{DATA=d; init();}).catch(e=>{
+  document.getElementById("grid").innerHTML='<div class="card">数据加载失败：'+e+'</div>';
+});
+
+function init(){
+  const srcOk=DATA.sources.filter(s=>s.last_ok).length, srcAll=DATA.sources.length;
+  document.getElementById("stats").innerHTML=
+    `<span><b>${DATA.offers.length}</b> 条在架线索</span>`+
+    `<span><b>${new Set(DATA.offers.map(o=>o.provider)).size}</b> 家厂商</span>`+
+    `<span><b>${srcOk}/${srcAll}</b> 源抓取成功</span>`+
+    `<span>构建于 ${DATA.generated_at}</span>`;
+  const tabs=document.getElementById("tabs");
+  [["all","全部"],["api","API"],["harness","Harness"],["agent","Agent"],["gpu","云 GPU"],["student","学生/创业"]].forEach(([k,l])=>{
+    const b=document.createElement("button"); b.className="tab"+(k==="all"?" active":""); b.textContent=l; b.dataset.k=k;
+    b.onclick=()=>{type=k;[...tabs.children].forEach(c=>c.classList.toggle("active",c===b));render();};
+    tabs.appendChild(b);
+  });
+  document.getElementById("q").oninput=e=>{q=e.target.value.toLowerCase();render();};
+  document.getElementById("foot-meta").textContent=
+    "抓取失败的源：" + (DATA.sources.filter(s=>!s.last_ok).map(s=>s.name).join("、") || "无");
+  render();
+}
+
+function render(){
+  const g=document.getElementById("grid");
+  const list=DATA.offers.filter(o=>(type==="all"||o.type===type) &&
+    (!q || (o.provider+o.text).toLowerCase().includes(q)));
+  g.innerHTML = list.length? "" : '<div class="card">没有匹配结果。</div>';
+  list.forEach(o=>{
+    const el=document.createElement("div"); el.className="card";
+    const fresh=(Date.now()-Date.parse(o.last_seen))/86400000 < 1.2;
+    el.innerHTML=`
+      <div class="top">
+        <div class="name">${esc(o.provider)}</div>
+        <div style="display:flex;gap:5px;flex-wrap:wrap">
+          ${o.is_new?'<span class="badge new">NEW</span>':''}
+          <span class="badge">${TYPE[o.type]||o.type}</span>
+          ${o.region==='cn'?'<span class="badge cn">国内</span>':''}
+        </div>
+      </div>
+      <div class="snippet">${esc(o.text)}</div>
+      <div class="meta">
+        <span>核验 ${o.last_seen.slice(0,10)}${fresh?' · 今日':''}</span>
+        <a href="${o.url}" target="_blank" rel="noopener">官方页面 ↗</a>
+      </div>`;
+    g.appendChild(el);
+  });
+}
+function esc(s){return (s||"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));}
+</script>
+</body>
+</html>

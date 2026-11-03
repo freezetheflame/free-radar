@@ -1,0 +1,155 @@
+# 免费额度雷达 · 数据源
+# type: api | harness | agent | gpu | student
+# region: global | cn
+# mode: html | json
+sources:
+  - id: deepseek
+    name: DeepSeek 开放平台
+    type: api
+    region: cn
+    url: https://api-docs.deepseek.com/zh-cn/quick_start/pricing
+  - id: siliconflow
+    name: 硅基流动 SiliconFlow
+    type: api
+    region: cn
+    url: https://siliconflow.cn/pricing
+  - id: bigmodel
+    name: 智谱 BigModel
+    type: api
+    region: cn
+    url: https://open.bigmodel.cn/pricing
+  - id: aliyun-bailian
+    name: 阿里云百炼
+    type: api
+    region: cn
+    url: https://help.aliyun.com/zh/model-studio/models
+  - id: volcengine
+    name: 火山方舟
+    type: api
+    region: cn
+    url: https://www.volcengine.com/docs/82379/1099320
+  - id: openrouter
+    name: OpenRouter
+    type: api
+    region: global
+    url: https://openrouter.ai/models?max_price=0
+  - id: groq
+    name: Groq
+    type: api
+    region: global
+    url: https://groq.com/pricing
+  - id: cerebras
+    name: Cerebras
+    type: api
+    region: global
+    url: https://www.cerebras.ai/pricing
+  - id: together
+    name: Together AI
+    type: api
+    region: global
+    url: https://www.together.ai/pricing
+  - id: google-ai
+    name: Google Gemini API
+    type: api
+    region: global
+    url: https://ai.google.dev/gemini-api/docs/pricing
+  - id: mistral
+    name: Mistral AI
+    type: api
+    region: global
+    url: https://mistral.ai/pricing
+  - id: cloudflare-ai
+    name: Cloudflare Workers AI
+    type: api
+    region: global
+    url: https://developers.cloudflare.com/workers-ai/platform/pricing/
+  - id: nvidia-nim
+    name: NVIDIA NIM
+    type: api
+    region: global
+    url: https://build.nvidia.com/
+  - id: cursor
+    name: Cursor
+    type: harness
+    region: global
+    url: https://cursor.com/pricing
+  - id: windsurf
+    name: Windsurf
+    type: harness
+    region: global
+    url: https://windsurf.com/pricing
+  - id: gemini-cli
+    name: Gemini CLI
+    type: harness
+    region: global
+    url: https://github.com/google-gemini/gemini-cli
+  - id: qwen-code
+    name: Qwen Code
+    type: harness
+    region: cn
+    url: https://github.com/QwenLM/qwen-code
+  - id: openhands
+    name: OpenHands
+    type: agent
+    region: global
+    url: https://www.all-hands.dev/
+  - id: manus
+    name: Manus
+    type: agent
+    region: global
+    url: https://manus.im/pricing
+  - id: dify
+    name: Dify
+    type: agent
+    region: global
+    url: https://dify.ai/pricing
+  - id: modal
+    name: Modal
+    type: gpu
+    region: global
+    url: https://modal.com/pricing
+  - id: runpod
+    name: RunPod
+    type: gpu
+    region: global
+    url: https://www.runpod.io/pricing
+  - id: vast
+    name: Vast.ai
+    type: gpu
+    region: global
+    url: https://vast.ai/pricing
+  - id: lambda
+    name: Lambda
+    type: gpu
+    region: global
+    url: https://lambda.ai/service/gpu-cloud
+  - id: colab
+    name: Google Colab
+    type: gpu
+    region: global
+    url: https://colab.research.google.com/
+  - id: kaggle
+    name: Kaggle Notebooks
+    type: gpu
+    region: global
+    url: https://www.kaggle.com/docs/efficient-gpu-usage
+  - id: github-student
+    name: GitHub Student Pack
+    type: student
+    region: global
+    url: https://education.github.com/pack
+  - id: gcp-startup
+    name: Google for Startups Cloud
+    type: student
+    region: global
+    url: https://cloud.google.com/startup
+  - id: aws-activate
+    name: AWS Activate
+    type: student
+    region: global
+    url: https://aws.amazon.com/activate/
+  - id: azure-students
+    name: Azure for Students
+    type: student
+    region: global
+    url: https://azure.microsoft.com/en-us/free/students/
