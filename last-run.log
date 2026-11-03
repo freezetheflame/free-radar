@@ -16,9 +16,9 @@ OK   windsurf           1 snippets
 OK   gemini-cli         1 snippets
 OK   qwen-code          1 snippets
 FAIL openhands          ValueError: no candidate lines
-FAIL manus              ValueError: no candidate lines
-OK   dify               1 snippets
-OK   modal              3 snippets
+OK   manus              1 snippets
+OK   dify               2 snippets
+OK   modal              2 snippets
 OK   runpod             1 snippets
 FAIL vast               ValueError: no candidate lines
 FAIL lambda             ValueError: no candidate lines
@@ -26,7 +26,7 @@ FAIL colab              ValueError: no candidate lines
 OK   kaggle             1 snippets
 OK   github-student     3 snippets
 OK   gcp-startup        3 snippets
-OK   aws-activate       1 snippets
+OK   aws-activate       3 snippets
 OK   azure-students     3 snippets
 
-23 ok / 7 fail → 45 offers → site/data.json
+24 ok / 6 fail → 61 offers → docs/data.json

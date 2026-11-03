@@ -236,7 +236,7 @@ def main() -> int:
         "generated_at": now, "ok": ok, "fail": fail, "offers": offers,
         "sources": [{"sid": k, "name": v[1], "type": v[2], "region": v[3], "last_ok": v[4], "last_error": v[5], "fail_count": v[6]} for k, v in meta.items()],
     }, ensure_ascii=False, indent=1), encoding="utf-8")
-    print(f"\n{ok} ok / {fail} fail → {len(offers)} offers → site/data.json")
+    print(f"\n{ok} ok / {fail} fail → {len(offers)} offers → docs/data.json")
     return 0
 
 
