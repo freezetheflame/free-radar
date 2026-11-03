@@ -1,0 +1,32 @@
+OK   deepseek           1 snippets
+OK   siliconflow        1 snippets
+OK   bigmodel           3 snippets
+OK   aliyun-bailian     2 snippets
+OK   volcengine         3 snippets
+FAIL openrouter         ValueError: no candidate lines
+FAIL groq               ValueError: no candidate lines
+OK   cerebras           1 snippets
+OK   together           2 snippets
+OK   google-ai          3 snippets
+OK   mistral            2 snippets
+OK   cloudflare-ai      1 snippets
+OK   nvidia-nim         2 snippets
+OK   cursor             1 snippets
+OK   windsurf           1 snippets
+OK   gemini-cli         1 snippets
+OK   qwen-code          1 snippets
+FAIL openhands          ValueError: no candidate lines
+FAIL manus              ValueError: no candidate lines
+OK   dify               1 snippets
+OK   modal              3 snippets
+OK   runpod             1 snippets
+FAIL vast               ValueError: no candidate lines
+FAIL lambda             ValueError: no candidate lines
+FAIL colab              ValueError: no candidate lines
+OK   kaggle             1 snippets
+OK   github-student     3 snippets
+OK   gcp-startup        3 snippets
+OK   aws-activate       1 snippets
+OK   azure-students     3 snippets
+
+23 ok / 7 fail → 45 offers → site/data.json
