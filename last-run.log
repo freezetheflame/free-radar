@@ -2,13 +2,13 @@ FAIL deepseek           ValueError: no candidate lines
 OK   siliconflow        1 snippets
 OK   bigmodel           3 snippets
 OK   aliyun-bailian     2 snippets
-FAIL volcengine         ValueError: no candidate lines
+OK   volcengine         3 snippets
 FAIL openrouter         ValueError: no candidate lines
 FAIL groq               ValueError: no candidate lines
 OK   cerebras           1 snippets
 OK   together           2 snippets
 OK   google-ai          3 snippets
-OK   mistral            2 snippets
+OK   mistral            1 snippets
 OK   cloudflare-ai      1 snippets
 OK   nvidia-nim         2 snippets
 OK   cursor             1 snippets
@@ -26,7 +26,7 @@ FAIL colab              ValueError: no candidate lines
 OK   kaggle             1 snippets
 OK   github-student     3 snippets
 OK   gcp-startup        3 snippets
-OK   aws-activate       2 snippets
+OK   aws-activate       3 snippets
 OK   azure-students     3 snippets
 
-25 ok / 5 fail → 213 offers → docs/data.json
+25 ok / 5 fail → 224 offers → docs/data.json
