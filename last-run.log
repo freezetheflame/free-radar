@@ -6,7 +6,7 @@ OK   volcengine         3 snippets
 FAIL openrouter         ValueError: no candidate lines
 FAIL groq               ValueError: no candidate lines
 OK   cerebras           1 snippets
-OK   together           2 snippets
+OK   together           3 snippets
 OK   google-ai          3 snippets
 OK   mistral            2 snippets
 OK   cloudflare-ai      1 snippets
@@ -18,7 +18,7 @@ OK   qwen-code          1 snippets
 FAIL openhands          ValueError: no candidate lines
 FAIL manus              ValueError: no candidate lines
 OK   dify               1 snippets
-OK   modal              2 snippets
+OK   modal              3 snippets
 FAIL runpod             ValueError: no candidate lines
 FAIL vast               ValueError: no candidate lines
 FAIL lambda             ValueError: no candidate lines
@@ -29,4 +29,4 @@ OK   gcp-startup        3 snippets
 OK   aws-activate       3 snippets
 OK   azure-students     3 snippets
 
-25 ok / 5 fail → 230 offers → docs/data.json
+25 ok / 5 fail → 240 offers → docs/data.json
