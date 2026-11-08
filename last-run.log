@@ -10,7 +10,7 @@ OK   together           2 snippets
 OK   google-ai          3 snippets
 OK   mistral            2 snippets
 OK   cloudflare-ai      1 snippets
-OK   nvidia-nim         1 snippets
+OK   nvidia-nim         2 snippets
 OK   cursor             1 snippets
 OK   windsurf           1 snippets
 OK   gemini-cli         1 snippets
@@ -18,15 +18,15 @@ OK   qwen-code          1 snippets
 FAIL openhands          ValueError: no candidate lines
 FAIL manus              ValueError: no candidate lines
 OK   dify               1 snippets
-OK   modal              2 snippets
+OK   modal              3 snippets
 FAIL runpod             ValueError: no candidate lines
 FAIL vast               ValueError: no candidate lines
 FAIL lambda             ValueError: no candidate lines
 FAIL colab              ValueError: no candidate lines
-OK   kaggle             1 snippets
+OK   kaggle             2 snippets
 OK   github-student     3 snippets
 OK   gcp-startup        3 snippets
 OK   aws-activate       3 snippets
 OK   azure-students     3 snippets
 
-25 ok / 5 fail → 250 offers → docs/data.json
+25 ok / 5 fail → 265 offers → docs/data.json
