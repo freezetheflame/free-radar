@@ -1,5 +1,5 @@
 FAIL deepseek           ValueError: no candidate lines
-OK   siliconflow        3 snippets
+OK   siliconflow        1 snippets
 OK   bigmodel           3 snippets
 OK   aliyun-bailian     2 snippets
 OK   volcengine         3 snippets
@@ -7,7 +7,7 @@ FAIL openrouter         ValueError: no candidate lines
 FAIL groq               ValueError: no candidate lines
 OK   cerebras           1 snippets
 OK   together           3 snippets
-FAIL google-ai          ValueError: no candidate lines
+OK   google-ai          3 snippets
 OK   mistral            2 snippets
 OK   cloudflare-ai      1 snippets
 OK   nvidia-nim         2 snippets
@@ -17,16 +17,16 @@ OK   gemini-cli         1 snippets
 OK   qwen-code          1 snippets
 FAIL openhands          ValueError: no candidate lines
 FAIL manus              ValueError: no candidate lines
-OK   dify               1 snippets
-OK   modal              3 snippets
+FAIL dify               URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of 
+OK   modal              2 snippets
 FAIL runpod             ValueError: no candidate lines
 FAIL vast               ValueError: no candidate lines
 FAIL lambda             ValueError: no candidate lines
 FAIL colab              ValueError: no candidate lines
 OK   kaggle             1 snippets
 OK   github-student     3 snippets
-OK   gcp-startup        3 snippets
+FAIL gcp-startup        URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of 
 OK   aws-activate       3 snippets
 OK   azure-students     3 snippets
 
-25 ok / 5 fail → 389 offers → docs/data.json
+25 ok / 5 fail → 396 offers → docs/data.json
