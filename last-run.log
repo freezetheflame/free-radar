@@ -1,16 +1,16 @@
 FAIL deepseek           ValueError: no candidate lines
-OK   siliconflow        1 snippets
+OK   siliconflow        3 snippets
 OK   bigmodel           3 snippets
 OK   aliyun-bailian     2 snippets
 OK   volcengine         3 snippets
-FAIL openrouter         ValueError: no candidate lines
+OK   openrouter         3 snippets
 FAIL groq               ValueError: no candidate lines
 OK   cerebras           1 snippets
 OK   together           2 snippets
 OK   google-ai          3 snippets
 OK   mistral            2 snippets
 OK   cloudflare-ai      1 snippets
-OK   nvidia-nim         1 snippets
+OK   nvidia-nim         2 snippets
 OK   cursor             1 snippets
 OK   windsurf           1 snippets
 OK   gemini-cli         1 snippets
@@ -27,6 +27,6 @@ OK   kaggle             1 snippets
 OK   github-student     3 snippets
 OK   gcp-startup        3 snippets
 OK   aws-activate       3 snippets
-FAIL azure-students     TimeoutError: The read operation timed out
+OK   azure-students     3 snippets
 
-26 ok / 4 fail → 512 offers → docs/data.json
+26 ok / 4 fail → 533 offers → docs/data.json
