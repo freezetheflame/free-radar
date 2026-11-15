@@ -1,16 +1,16 @@
-OK   deepseek           1 snippets
-OK   siliconflow        1 snippets
+FAIL deepseek           ValueError: no candidate lines
+OK   siliconflow        3 snippets
 OK   bigmodel           3 snippets
-OK   aliyun-bailian     2 snippets
+FAIL aliyun-bailian     URLError: <urlopen error _ssl.c:999: The handshake operation timed out>
 OK   volcengine         3 snippets
 FAIL openrouter         ValueError: no candidate lines
-FAIL groq               URLError: <urlopen error _ssl.c:999: The handshake operation timed out>
+FAIL groq               ValueError: no candidate lines
 OK   cerebras           1 snippets
 OK   together           2 snippets
 OK   google-ai          3 snippets
-OK   mistral            2 snippets
+OK   mistral            3 snippets
 OK   cloudflare-ai      1 snippets
-OK   nvidia-nim         1 snippets
+OK   nvidia-nim         2 snippets
 OK   cursor             1 snippets
 OK   windsurf           1 snippets
 OK   gemini-cli         1 snippets
@@ -29,4 +29,4 @@ OK   gcp-startup        3 snippets
 OK   aws-activate       3 snippets
 OK   azure-students     3 snippets
 
-26 ok / 4 fail → 591 offers → docs/data.json
+26 ok / 4 fail → 601 offers → docs/data.json
