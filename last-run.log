@@ -1,8 +1,8 @@
-FAIL deepseek           RemoteDisconnected: Remote end closed connection without response
+OK   deepseek           1 snippets
 OK   siliconflow        1 snippets
 OK   bigmodel           3 snippets
-FAIL aliyun-bailian     URLError: <urlopen error _ssl.c:999: The handshake operation timed out>
-OK   volcengine         3 snippets
+OK   aliyun-bailian     2 snippets
+FAIL volcengine         TimeoutError: The read operation timed out
 FAIL openrouter         ValueError: no candidate lines
 FAIL groq               ValueError: no candidate lines
 OK   cerebras           1 snippets
@@ -17,16 +17,16 @@ OK   gemini-cli         1 snippets
 OK   qwen-code          1 snippets
 FAIL openhands          ValueError: no candidate lines
 FAIL manus              ValueError: no candidate lines
-OK   dify               2 snippets
+OK   dify               1 snippets
 OK   modal              3 snippets
 FAIL runpod             ValueError: no candidate lines
 FAIL vast               ValueError: no candidate lines
 FAIL lambda             ValueError: no candidate lines
 FAIL colab              ValueError: no candidate lines
 OK   kaggle             1 snippets
-OK   github-student     3 snippets
+FAIL github-student     TimeoutError: The read operation timed out
 OK   gcp-startup        3 snippets
 OK   aws-activate       3 snippets
 OK   azure-students     3 snippets
 
-26 ok / 4 fail → 640 offers → docs/data.json
+26 ok / 4 fail → 648 offers → docs/data.json
