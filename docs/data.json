@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T00:00:57Z",
+ "generated_at": "2026-11-18T06:00:57Z",
  "ok": 26,
  "fail": 4,
  "offers": [
@@ -355,6 +355,32 @@
    "source_error": null
   },
   {
+   "sid": "dify",
+   "provider": "Dify",
+   "type": "agent",
+   "region": "global",
+   "url": "https://dify.ai/pricing",
+   "text": "社区版免费开源可自托管：面向开源爱好者、独立开发者及非商业项目，含全部核心功能、单工作区，遵循 Dify 开源许可｜For open-source enthusiasts, individual developers, and non-commercial projects. Get Started Free Features: All Core Features Released Under the Public Repository",
+   "first_seen": "2026-11-18T06:00:57Z",
+   "last_seen": "2026-11-18T06:00:57Z",
+   "status": "live",
+   "is_new": true,
+   "source_error": null
+  },
+  {
+   "sid": "dify",
+   "provider": "Dify",
+   "type": "agent",
+   "region": "global",
+   "url": "https://dify.ai/pricing",
+   "text": "免费档可体验核心功能：1 工作区/1 成员、50 篇知识文档、50MB 存储、3000 次触发事件、5000 次 API/月、30 天日志｜For trying out Dify's core features.",
+   "first_seen": "2026-11-18T06:00:57Z",
+   "last_seen": "2026-11-18T06:00:57Z",
+   "status": "live",
+   "is_new": true,
+   "source_error": null
+  },
+  {
    "sid": "manus",
    "provider": "Manus",
    "type": "agent",
@@ -441,6 +467,19 @@
    "text": "个人开发者可免费下载 OpenHands 本地使用｜Download free",
    "first_seen": "2026-11-18T00:00:57Z",
    "last_seen": "2026-11-18T00:00:57Z",
+   "status": "live",
+   "is_new": true,
+   "source_error": null
+  },
+  {
+   "sid": "openhands",
+   "provider": "OpenHands",
+   "type": "agent",
+   "region": "global",
+   "url": "https://www.all-hands.dev/",
+   "text": "OpenHands Teams 可免费试用30天（自助开通）。｜Try OpenHands Teams, free for 30 days →",
+   "first_seen": "2026-11-18T06:00:57Z",
+   "last_seen": "2026-11-18T06:00:57Z",
    "status": "live",
    "is_new": true,
    "source_error": null
@@ -544,7 +583,7 @@
    "url": "https://www.cerebras.ai/pricing",
    "text": "开发者自助按量付费，新用户可获5美元免费起始额度｜Self-serve pay-as-you-go with free $5 credit to start ***",
    "first_seen": "2026-11-05T18:00:57Z",
-   "last_seen": "2026-11-17T18:00:58Z",
+   "last_seen": "2026-11-18T06:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -1850,6 +1889,19 @@
    "source_error": null
   },
   {
+   "sid": "cloudflare-ai",
+   "provider": "Cloudflare Workers AI",
+   "type": "api",
+   "region": "global",
+   "url": "https://developers.cloudflare.com/workers-ai/platform/pricing/",
+   "text": "Workers 免费计划每天提供 10,000 Neurons 的 Workers AI 额度，免费档无需付费即可使用；quota 每天 UTC 00:00 重置｜Workers Free\n10,000 Neurons per day",
+   "first_seen": "2026-11-18T06:00:57Z",
+   "last_seen": "2026-11-18T06:00:57Z",
+   "status": "live",
+   "is_new": true,
+   "source_error": null
+  },
+  {
    "sid": "deepseek",
    "provider": "DeepSeek 开放平台",
    "type": "api",
@@ -1860,7 +1912,7 @@
    "last_seen": "2026-11-04T00:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": "RemoteDisconnected: Remote end closed connection without response"
+   "source_error": null
   },
   {
    "sid": "deepseek",
@@ -1873,7 +1925,7 @@
    "last_seen": "2026-11-04T06:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": "RemoteDisconnected: Remote end closed connection without response"
+   "source_error": null
   },
   {
    "sid": "deepseek",
@@ -1886,7 +1938,7 @@
    "last_seen": "2026-11-04T18:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": "RemoteDisconnected: Remote end closed connection without response"
+   "source_error": null
   },
   {
    "sid": "google-ai",
@@ -1935,7 +1987,7 @@
    "url": "https://ai.google.dev/gemini-api/docs/pricing",
    "text": "Input price | Free of charge | $1.50",
    "first_seen": "2026-11-12T18:00:58Z",
-   "last_seen": "2026-11-18T00:00:57Z",
+   "last_seen": "2026-11-18T06:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -1948,7 +2000,7 @@
    "url": "https://ai.google.dev/gemini-api/docs/pricing",
    "text": "Output price (including thinking tokens) | Free of charge | $7.50",
    "first_seen": "2026-11-12T18:00:58Z",
-   "last_seen": "2026-11-18T00:00:57Z",
+   "last_seen": "2026-11-18T06:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -1961,7 +2013,7 @@
    "url": "https://ai.google.dev/gemini-api/docs/pricing",
    "text": "Context caching price | Free of charge | $0.075 Implicit caching only (explicit caching is not supported).",
    "first_seen": "2026-11-12T18:00:58Z",
-   "last_seen": "2026-11-18T00:00:57Z",
+   "last_seen": "2026-11-18T06:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -2279,6 +2331,19 @@
    "source_error": null
   },
   {
+   "sid": "mistral",
+   "provider": "Mistral AI",
+   "type": "api",
+   "region": "global",
+   "url": "https://mistral.ai/pricing",
+   "text": "教育计划：认证高校学生且此前未用过 Vibe/Le Chat，可免费全功能使用 Vibe，最长 12 个月｜Valid for a maximum of 12 months for verified students at accredited higher institutions and if you haven't used Vibe (or Le Chat) before.",
+   "first_seen": "2026-11-18T06:00:57Z",
+   "last_seen": "2026-11-18T06:00:57Z",
+   "status": "live",
+   "is_new": true,
+   "source_error": null
+  },
+  {
    "sid": "nvidia-nim",
    "provider": "NVIDIA NIM",
    "type": "api",
@@ -2286,7 +2351,7 @@
    "url": "https://build.nvidia.com/",
    "text": "* How many requests can I make?The free tier runs on rate limits - up to 40 requests per minute (RPM) for most models, with no per-token billing. Your personal rate limit is shown in the top-right of the dashboard.",
    "first_seen": "2026-11-04T00:00:57Z",
-   "last_seen": "2026-11-18T00:00:57Z",
+   "last_seen": "2026-11-18T06:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -2299,7 +2364,7 @@
    "url": "https://build.nvidia.com/",
    "text": "* Why are the API endpoints free?We believe open model inference offers the best cost-performance for most workloads. The free tier exists so you can verify that yourself before committing to anything.",
    "first_seen": "2026-11-04T00:00:57Z",
-   "last_seen": "2026-11-18T00:00:57Z",
+   "last_seen": "2026-11-18T06:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -3787,6 +3852,32 @@
    "source_error": null
   },
   {
+   "sid": "together",
+   "provider": "Together AI",
+   "type": "api",
+   "region": "global",
+   "url": "https://www.together.ai/pricing",
+   "text": "Ternary Bonsai 27B 模型输入与输出均免费，无价格门槛｜Ternary Bonsai 27B](https://www.together.ai/models/prism-ml-ternary-bonsai-27b) | Free | Free",
+   "first_seen": "2026-11-18T06:00:57Z",
+   "last_seen": "2026-11-18T06:00:57Z",
+   "status": "live",
+   "is_new": true,
+   "source_error": null
+  },
+  {
+   "sid": "together",
+   "provider": "Together AI",
+   "type": "api",
+   "region": "global",
+   "url": "https://www.together.ai/pricing",
+   "text": "实验模型 Tev1 4B 输出侧 $0.00 免费，输入 $0.042/1M tokens｜Tev1 4B Experimental](https://www.together.ai/models/tev1-4b-experimental) | $0.042 | $0.00",
+   "first_seen": "2026-11-18T06:00:57Z",
+   "last_seen": "2026-11-18T06:00:57Z",
+   "status": "live",
+   "is_new": true,
+   "source_error": null
+  },
+  {
    "sid": "bigmodel",
    "provider": "智谱 BigModel",
    "type": "api",
@@ -3885,7 +3976,7 @@
    "url": "https://open.bigmodel.cn/pricing",
    "text": "永久免费视觉模型GLM-4.6V-Flash，输入、输出、缓存全部免费｜视觉模型 GLM-4.6V-Flash：输入免费、输出免费、缓存免费",
    "first_seen": "2026-11-04T18:00:57Z",
-   "last_seen": "2026-11-04T18:00:57Z",
+   "last_seen": "2026-11-18T06:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -4601,6 +4692,19 @@
    "text": "新用户注册赠2000万Tokens，可免费体验GLM新模型｜新用户注册得 2000万 Tokens，新模型免费玩到爽！",
    "first_seen": "2026-11-18T00:00:57Z",
    "last_seen": "2026-11-18T00:00:57Z",
+   "status": "live",
+   "is_new": true,
+   "source_error": null
+  },
+  {
+   "sid": "bigmodel",
+   "provider": "智谱 BigModel",
+   "type": "api",
+   "region": "cn",
+   "url": "https://open.bigmodel.cn/pricing",
+   "text": "永久免费文本模型GLM-4.7-Flash，200K上下文，输入、输出、缓存均免费｜文本模型 GLM-4.7-Flash（200K上下文）：输入免费、输出免费、缓存免费",
+   "first_seen": "2026-11-18T06:00:57Z",
+   "last_seen": "2026-11-18T06:00:57Z",
    "status": "live",
    "is_new": true,
    "source_error": null
@@ -5438,6 +5542,19 @@
    "source_error": null
   },
   {
+   "sid": "volcengine",
+   "provider": "火山方舟",
+   "type": "api",
+   "region": "cn",
+   "url": "https://www.volcengine.com/docs/82379/1099320",
+   "text": "联网内容插件每月赠送 20K 次免费调用额度｜实时搜索互联网公开域内容，每月提供 20K 次免费额度。",
+   "first_seen": "2026-11-18T06:00:57Z",
+   "last_seen": "2026-11-18T06:00:57Z",
+   "status": "live",
+   "is_new": true,
+   "source_error": null
+  },
+  {
    "sid": "siliconflow",
    "provider": "硅基流动 SiliconFlow",
    "type": "api",
@@ -5448,7 +5565,7 @@
    "last_seen": "2026-11-18T00:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
   },
   {
    "sid": "siliconflow",
@@ -5461,7 +5578,7 @@
    "last_seen": "2026-11-04T00:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
   },
   {
    "sid": "siliconflow",
@@ -5474,7 +5591,7 @@
    "last_seen": "2026-11-04T06:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
   },
   {
    "sid": "siliconflow",
@@ -5487,7 +5604,7 @@
    "last_seen": "2026-11-04T12:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
   },
   {
    "sid": "siliconflow",
@@ -5500,7 +5617,7 @@
    "last_seen": "2026-11-06T12:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
   },
   {
    "sid": "siliconflow",
@@ -5513,7 +5630,7 @@
    "last_seen": "2026-11-06T12:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
   },
   {
    "sid": "siliconflow",
@@ -5526,7 +5643,7 @@
    "last_seen": "2026-11-08T12:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
   },
   {
    "sid": "siliconflow",
@@ -5539,7 +5656,7 @@
    "last_seen": "2026-11-08T12:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
   },
   {
    "sid": "siliconflow",
@@ -5552,7 +5669,7 @@
    "last_seen": "2026-11-09T12:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
   },
   {
    "sid": "siliconflow",
@@ -5565,7 +5682,7 @@
    "last_seen": "2026-11-09T12:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
   },
   {
    "sid": "siliconflow",
@@ -5578,7 +5695,7 @@
    "last_seen": "2026-11-09T18:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
   },
   {
    "sid": "siliconflow",
@@ -5591,7 +5708,7 @@
    "last_seen": "2026-11-09T18:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
   },
   {
    "sid": "siliconflow",
@@ -5604,7 +5721,7 @@
    "last_seen": "2026-11-09T18:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
   },
   {
    "sid": "siliconflow",
@@ -5617,7 +5734,7 @@
    "last_seen": "2026-11-10T00:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
   },
   {
    "sid": "siliconflow",
@@ -5630,7 +5747,7 @@
    "last_seen": "2026-11-10T00:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
   },
   {
    "sid": "siliconflow",
@@ -5643,7 +5760,7 @@
    "last_seen": "2026-11-10T12:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
   },
   {
    "sid": "siliconflow",
@@ -5656,7 +5773,7 @@
    "last_seen": "2026-11-10T12:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
   },
   {
    "sid": "siliconflow",
@@ -5669,7 +5786,7 @@
    "last_seen": "2026-11-12T18:00:58Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
   },
   {
    "sid": "siliconflow",
@@ -5682,7 +5799,7 @@
    "last_seen": "2026-11-12T18:00:58Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
   },
   {
    "sid": "siliconflow",
@@ -5695,7 +5812,7 @@
    "last_seen": "2026-11-12T18:00:58Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
   },
   {
    "sid": "siliconflow",
@@ -5708,7 +5825,7 @@
    "last_seen": "2026-11-13T00:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
   },
   {
    "sid": "siliconflow",
@@ -5721,7 +5838,7 @@
    "last_seen": "2026-11-13T00:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
   },
   {
    "sid": "siliconflow",
@@ -5734,7 +5851,7 @@
    "last_seen": "2026-11-13T12:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
   },
   {
    "sid": "siliconflow",
@@ -5747,7 +5864,7 @@
    "last_seen": "2026-11-13T12:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
   },
   {
    "sid": "siliconflow",
@@ -5760,7 +5877,7 @@
    "last_seen": "2026-11-13T12:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
   },
   {
    "sid": "siliconflow",
@@ -5773,7 +5890,7 @@
    "last_seen": "2026-11-13T18:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
   },
   {
    "sid": "siliconflow",
@@ -5786,7 +5903,7 @@
    "last_seen": "2026-11-14T00:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
   },
   {
    "sid": "siliconflow",
@@ -5799,7 +5916,7 @@
    "last_seen": "2026-11-14T12:00:58Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
   },
   {
    "sid": "siliconflow",
@@ -5812,7 +5929,7 @@
    "last_seen": "2026-11-14T12:00:58Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
   },
   {
    "sid": "siliconflow",
@@ -5825,7 +5942,7 @@
    "last_seen": "2026-11-15T00:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
   },
   {
    "sid": "siliconflow",
@@ -5838,7 +5955,7 @@
    "last_seen": "2026-11-15T00:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
   },
   {
    "sid": "siliconflow",
@@ -5851,7 +5968,7 @@
    "last_seen": "2026-11-15T06:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
   },
   {
    "sid": "siliconflow",
@@ -5864,7 +5981,7 @@
    "last_seen": "2026-11-15T06:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
   },
   {
    "sid": "siliconflow",
@@ -5877,7 +5994,7 @@
    "last_seen": "2026-11-17T00:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
   },
   {
    "sid": "siliconflow",
@@ -5890,7 +6007,7 @@
    "last_seen": "2026-11-17T06:00:58Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
   },
   {
    "sid": "siliconflow",
@@ -5903,7 +6020,7 @@
    "last_seen": "2026-11-17T06:00:58Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
   },
   {
    "sid": "siliconflow",
@@ -5916,7 +6033,7 @@
    "last_seen": "2026-11-17T06:00:58Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
   },
   {
    "sid": "siliconflow",
@@ -5929,7 +6046,7 @@
    "last_seen": "2026-11-17T12:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
   },
   {
    "sid": "siliconflow",
@@ -5942,7 +6059,7 @@
    "last_seen": "2026-11-17T12:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
   },
   {
    "sid": "siliconflow",
@@ -5955,7 +6072,7 @@
    "last_seen": "2026-11-17T12:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
   },
   {
    "sid": "kaggle",
@@ -6642,6 +6759,19 @@
    "text": "每周免费GPU配额，通常30小时，按需求可能更高，每周重置｜You can use up to a quota limit per week of GPU. The quota resets weekly and is 30 hours or sometimes higher depending on demand and resources",
    "first_seen": "2026-11-18T00:00:57Z",
    "last_seen": "2026-11-18T00:00:57Z",
+   "status": "live",
+   "is_new": true,
+   "source_error": null
+  },
+  {
+   "sid": "kaggle",
+   "provider": "Kaggle Notebooks",
+   "type": "gpu",
+   "region": "global",
+   "url": "https://www.kaggle.com/docs/efficient-gpu-usage",
+   "text": "免费 GPU 算力，每周配额 30 小时（可能更高），每周重置｜You can use up to a quota limit per week of GPU. The quota resets weekly and is 30 hours or sometimes higher depending on demand and resources",
+   "first_seen": "2026-11-18T06:00:57Z",
+   "last_seen": "2026-11-18T06:00:57Z",
    "status": "live",
    "is_new": true,
    "source_error": null
@@ -7603,7 +7733,7 @@
    "url": "https://modal.com/pricing",
    "text": "学术计划：研究生、实验室与研究者可申请最高 $10k 免费计算额度｜Graduate students, labs, and researchers can get up to $10k free compute credits on Modal",
    "first_seen": "2026-11-15T12:00:57Z",
-   "last_seen": "2026-11-16T06:00:58Z",
+   "last_seen": "2026-11-18T06:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -7955,6 +8085,32 @@
    "text": "Volume 存储每月含 1 TiB 免费额度｜*includes 1 TiB / mo free",
    "first_seen": "2026-11-18T00:00:57Z",
    "last_seen": "2026-11-18T00:00:57Z",
+   "status": "live",
+   "is_new": true,
+   "source_error": null
+  },
+  {
+   "sid": "modal",
+   "provider": "Modal",
+   "type": "gpu",
+   "region": "global",
+   "url": "https://modal.com/pricing",
+   "text": "Starter 永久免费档：无月费，每月含 $30 GPU/CPU/内存计算额度，3 席位，1 TiB 免费出网｜Starter has no monthly fee and includes $30 of compute (GPUs, CPUs, Memory) per month.",
+   "first_seen": "2026-11-18T06:00:57Z",
+   "last_seen": "2026-11-18T06:00:57Z",
+   "status": "live",
+   "is_new": true,
+   "source_error": null
+  },
+  {
+   "sid": "modal",
+   "provider": "Modal",
+   "type": "gpu",
+   "region": "global",
+   "url": "https://modal.com/pricing",
+   "text": "初创计划：早期创业公司可申请 Modal 免费计算额度｜Early-stage startups can get free compute credits on Modal.",
+   "first_seen": "2026-11-18T06:00:57Z",
+   "last_seen": "2026-11-18T06:00:57Z",
    "status": "live",
    "is_new": true,
    "source_error": null
@@ -8363,6 +8519,32 @@
    "source_error": null
   },
   {
+   "sid": "cursor",
+   "provider": "Cursor",
+   "type": "harness",
+   "region": "global",
+   "url": "https://cursor.com/pricing",
+   "text": "免费档 $0/月：智能体可用，聊天、图像生成、Grok 构建等用量有限｜功能 免费 $0 /月",
+   "first_seen": "2026-11-18T06:00:57Z",
+   "last_seen": "2026-11-18T06:00:57Z",
+   "status": "live",
+   "is_new": true,
+   "source_error": null
+  },
+  {
+   "sid": "cursor",
+   "provider": "Cursor",
+   "type": "harness",
+   "region": "global",
+   "url": "https://cursor.com/pricing",
+   "text": "各档位均含 AI 用量池，额度每周刷新，用尽后可充值或等待｜你的额度每周刷新，因此即使某一天用量很大，也不会耗尽整个月的额度。",
+   "first_seen": "2026-11-18T06:00:57Z",
+   "last_seen": "2026-11-18T06:00:57Z",
+   "status": "live",
+   "is_new": true,
+   "source_error": null
+  },
+  {
    "sid": "gemini-cli",
    "provider": "Gemini CLI",
    "type": "harness",
@@ -8370,7 +8552,7 @@
    "url": "https://github.com/google-gemini/gemini-cli",
    "text": "No free tier or Google AI plans: Free individual access and Google AI Pro / Ultra (Google One) moved to Antigravity CLI on June 18, 2026 ( transition post ).",
    "first_seen": "2026-11-03T17:34:19Z",
-   "last_seen": "2026-11-18T00:00:57Z",
+   "last_seen": "2026-11-18T06:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -9026,6 +9208,19 @@
    "source_error": null
   },
   {
+   "sid": "windsurf",
+   "provider": "Windsurf",
+   "type": "harness",
+   "region": "global",
+   "url": "https://windsurf.com/pricing",
+   "text": "免费计划$0/月：含轻量 agent 编码额度、有限模型、无限 inline edits 和 Tab 补全。｜The Free plan includes a light quota to code with agents, limited model availability, unlimited inline edits, and unlimited Tab completions.",
+   "first_seen": "2026-11-18T06:00:57Z",
+   "last_seen": "2026-11-18T06:00:57Z",
+   "status": "live",
+   "is_new": true,
+   "source_error": null
+  },
+  {
    "sid": "aws-activate",
    "provider": "AWS Activate",
    "type": "student",
@@ -9033,7 +9228,7 @@
    "url": "https://aws.amazon.com/activate/",
    "text": "免费获取使用 AWS 产品和服务的实践经验",
    "first_seen": "2026-11-03T17:34:19Z",
-   "last_seen": "2026-11-18T00:00:57Z",
+   "last_seen": "2026-11-18T06:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -9046,7 +9241,7 @@
    "url": "https://azure.microsoft.com/en-us/free/students/",
    "text": "$1,000 in Azure credits instantly—no application required",
    "first_seen": "2026-11-03T17:34:19Z",
-   "last_seen": "2026-11-18T00:00:57Z",
+   "last_seen": "2026-11-18T06:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -9059,7 +9254,7 @@
    "url": "https://azure.microsoft.com/en-us/free/students/",
    "text": "Unlock up to $5,000 in total credits with business verification",
    "first_seen": "2026-11-03T17:34:19Z",
-   "last_seen": "2026-11-18T00:00:57Z",
+   "last_seen": "2026-11-18T06:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -9072,7 +9267,7 @@
    "url": "https://azure.microsoft.com/en-us/free/students/",
    "text": "Credits valid for 90 days (initial) and 180 days (post-verification)",
    "first_seen": "2026-11-03T17:34:19Z",
-   "last_seen": "2026-11-18T00:00:57Z",
+   "last_seen": "2026-11-18T06:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -9150,7 +9345,7 @@
    "url": "https://education.github.com/pack",
    "text": "$50 in MongoDB Atlas Credits, plus access to MongoDB Compass and MongoDB University including free certification valued at $150.",
    "first_seen": "2026-11-03T17:34:19Z",
-   "last_seen": "2026-11-18T00:00:57Z",
+   "last_seen": "2026-11-18T06:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -9163,7 +9358,7 @@
    "url": "https://education.github.com/pack",
    "text": "Get $25 in Stripe credits to offset fees on products including Stripe Payments, Billing, and more.",
    "first_seen": "2026-11-03T17:34:19Z",
-   "last_seen": "2026-11-18T00:00:57Z",
+   "last_seen": "2026-11-18T06:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -9176,7 +9371,7 @@
    "url": "https://education.github.com/pack",
    "text": "Free 6-month trial while you are a student.",
    "first_seen": "2026-11-03T17:34:19Z",
-   "last_seen": "2026-11-18T00:00:57Z",
+   "last_seen": "2026-11-18T06:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -9189,7 +9384,7 @@
    "url": "https://cloud.google.com/startup",
    "text": "获享 $300 赠金以及 20 多种提供“始终免费”用量的产品。",
    "first_seen": "2026-11-03T17:34:19Z",
-   "last_seen": "2026-11-18T00:00:57Z",
+   "last_seen": "2026-11-18T06:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -9202,7 +9397,7 @@
    "url": "https://cloud.google.com/startup",
    "text": "AI 赋能的云原生数据迁移服务，可免费使用。",
    "first_seen": "2026-11-03T17:34:19Z",
-   "last_seen": "2026-11-18T00:00:57Z",
+   "last_seen": "2026-11-18T06:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -9214,9 +9409,9 @@
    "name": "DeepSeek 开放平台",
    "type": "api",
    "region": "cn",
-   "last_ok": "2026-11-17T06:00:58Z",
-   "last_error": "RemoteDisconnected: Remote end closed connection without response",
-   "fail_count": 3
+   "last_ok": "2026-11-18T06:00:57Z",
+   "last_error": null,
+   "fail_count": 0
   },
   {
    "sid": "siliconflow",
@@ -9224,15 +9419,15 @@
    "type": "api",
    "region": "cn",
    "last_ok": "2026-11-18T00:00:57Z",
-   "last_error": null,
-   "fail_count": 0
+   "last_error": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>",
+   "fail_count": 1
   },
   {
    "sid": "bigmodel",
    "name": "智谱 BigModel",
    "type": "api",
    "region": "cn",
-   "last_ok": "2026-11-18T00:00:57Z",
+   "last_ok": "2026-11-18T06:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9241,7 +9436,7 @@
    "name": "阿里云百炼",
    "type": "api",
    "region": "cn",
-   "last_ok": "2026-11-18T00:00:57Z",
+   "last_ok": "2026-11-18T06:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9250,7 +9445,7 @@
    "name": "火山方舟",
    "type": "api",
    "region": "cn",
-   "last_ok": "2026-11-18T00:00:57Z",
+   "last_ok": "2026-11-18T06:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9261,7 +9456,7 @@
    "region": "global",
    "last_ok": "2026-11-13T12:00:57Z",
    "last_error": "ValueError: no candidate lines",
-   "fail_count": 18
+   "fail_count": 19
   },
   {
    "sid": "groq",
@@ -9270,14 +9465,14 @@
    "region": "global",
    "last_ok": null,
    "last_error": "ValueError: no candidate lines",
-   "fail_count": 60
+   "fail_count": 61
   },
   {
    "sid": "cerebras",
    "name": "Cerebras",
    "type": "api",
    "region": "global",
-   "last_ok": "2026-11-18T00:00:57Z",
+   "last_ok": "2026-11-18T06:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9286,7 +9481,7 @@
    "name": "Together AI",
    "type": "api",
    "region": "global",
-   "last_ok": "2026-11-18T00:00:57Z",
+   "last_ok": "2026-11-18T06:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9295,7 +9490,7 @@
    "name": "Google Gemini API",
    "type": "api",
    "region": "global",
-   "last_ok": "2026-11-18T00:00:57Z",
+   "last_ok": "2026-11-18T06:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9304,7 +9499,7 @@
    "name": "Mistral AI",
    "type": "api",
    "region": "global",
-   "last_ok": "2026-11-18T00:00:57Z",
+   "last_ok": "2026-11-18T06:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9313,7 +9508,7 @@
    "name": "Cloudflare Workers AI",
    "type": "api",
    "region": "global",
-   "last_ok": "2026-11-18T00:00:57Z",
+   "last_ok": "2026-11-18T06:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9322,7 +9517,7 @@
    "name": "NVIDIA NIM",
    "type": "api",
    "region": "global",
-   "last_ok": "2026-11-18T00:00:57Z",
+   "last_ok": "2026-11-18T06:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9331,7 +9526,7 @@
    "name": "Cursor",
    "type": "harness",
    "region": "global",
-   "last_ok": "2026-11-18T00:00:57Z",
+   "last_ok": "2026-11-18T06:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9340,7 +9535,7 @@
    "name": "Windsurf",
    "type": "harness",
    "region": "global",
-   "last_ok": "2026-11-18T00:00:57Z",
+   "last_ok": "2026-11-18T06:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9349,7 +9544,7 @@
    "name": "Gemini CLI",
    "type": "harness",
    "region": "global",
-   "last_ok": "2026-11-18T00:00:57Z",
+   "last_ok": "2026-11-18T06:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9358,7 +9553,7 @@
    "name": "Qwen Code",
    "type": "harness",
    "region": "cn",
-   "last_ok": "2026-11-18T00:00:57Z",
+   "last_ok": "2026-11-18T06:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9367,7 +9562,7 @@
    "name": "OpenHands",
    "type": "agent",
    "region": "global",
-   "last_ok": "2026-11-18T00:00:57Z",
+   "last_ok": "2026-11-18T06:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9378,14 +9573,14 @@
    "region": "global",
    "last_ok": "2026-11-15T12:00:57Z",
    "last_error": "ValueError: no candidate lines",
-   "fail_count": 10
+   "fail_count": 11
   },
   {
    "sid": "dify",
    "name": "Dify",
    "type": "agent",
    "region": "global",
-   "last_ok": "2026-11-18T00:00:57Z",
+   "last_ok": "2026-11-18T06:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9394,7 +9589,7 @@
    "name": "Modal",
    "type": "gpu",
    "region": "global",
-   "last_ok": "2026-11-18T00:00:57Z",
+   "last_ok": "2026-11-18T06:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9405,7 +9600,7 @@
    "region": "global",
    "last_ok": "2026-11-04T12:00:57Z",
    "last_error": "ValueError: no candidate lines",
-   "fail_count": 54
+   "fail_count": 55
   },
   {
    "sid": "vast",
@@ -9414,7 +9609,7 @@
    "region": "global",
    "last_ok": null,
    "last_error": "ValueError: no candidate lines",
-   "fail_count": 60
+   "fail_count": 61
   },
   {
    "sid": "lambda",
@@ -9423,7 +9618,7 @@
    "region": "global",
    "last_ok": null,
    "last_error": "ValueError: no candidate lines",
-   "fail_count": 60
+   "fail_count": 61
   },
   {
    "sid": "colab",
@@ -9432,14 +9627,14 @@
    "region": "global",
    "last_ok": null,
    "last_error": "ValueError: no candidate lines",
-   "fail_count": 60
+   "fail_count": 61
   },
   {
    "sid": "kaggle",
    "name": "Kaggle Notebooks",
    "type": "gpu",
    "region": "global",
-   "last_ok": "2026-11-18T00:00:57Z",
+   "last_ok": "2026-11-18T06:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9448,7 +9643,7 @@
    "name": "GitHub Student Pack",
    "type": "student",
    "region": "global",
-   "last_ok": "2026-11-18T00:00:57Z",
+   "last_ok": "2026-11-18T06:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9457,7 +9652,7 @@
    "name": "Google for Startups Cloud",
    "type": "student",
    "region": "global",
-   "last_ok": "2026-11-18T00:00:57Z",
+   "last_ok": "2026-11-18T06:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9466,7 +9661,7 @@
    "name": "AWS Activate",
    "type": "student",
    "region": "global",
-   "last_ok": "2026-11-18T00:00:57Z",
+   "last_ok": "2026-11-18T06:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9475,7 +9670,7 @@
    "name": "Azure for Students",
    "type": "student",
    "region": "global",
-   "last_ok": "2026-11-18T00:00:57Z",
+   "last_ok": "2026-11-18T06:00:57Z",
    "last_error": null,
    "fail_count": 0
   }

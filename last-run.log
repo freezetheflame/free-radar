@@ -1,23 +1,23 @@
-FAIL deepseek           RemoteDisconnected: Remote end closed connection without response
-OK   siliconflow        1 snippets
-OK   bigmodel           1 snippets
+OK   deepseek           1 snippets
+FAIL siliconflow        URLError: <urlopen error _ssl.c:999: The handshake operation timed out>
+OK   bigmodel           3 snippets
 OK   aliyun-bailian     2 snippets
 OK   volcengine         3 snippets
 FAIL openrouter         ValueError: no candidate lines
 FAIL groq               ValueError: no candidate lines
 OK   cerebras           1 snippets
-OK   together           1 snippets
+OK   together           3 snippets
 OK   google-ai          3 snippets
 OK   mistral            2 snippets
 OK   cloudflare-ai      1 snippets
 OK   nvidia-nim         2 snippets
-OK   cursor             1 snippets
+OK   cursor             2 snippets
 OK   windsurf           1 snippets
 OK   gemini-cli         1 snippets
 OK   qwen-code          1 snippets
-OK   openhands          2 snippets
+OK   openhands          1 snippets
 FAIL manus              ValueError: no candidate lines
-OK   dify               1 snippets
+OK   dify               2 snippets
 OK   modal              3 snippets
 FAIL runpod             ValueError: no candidate lines
 FAIL vast               ValueError: no candidate lines
@@ -29,4 +29,4 @@ OK   gcp-startup        3 snippets
 OK   aws-activate       3 snippets
 OK   azure-students     3 snippets
 
-26 ok / 4 fail → 708 offers → docs/data.json
+26 ok / 4 fail → 723 offers → docs/data.json
