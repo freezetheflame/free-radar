@@ -1,21 +1,21 @@
-OK   deepseek           1 snippets
+OK   deepseek           2 snippets
 OK   siliconflow        1 snippets
 OK   bigmodel           3 snippets
 OK   aliyun-bailian     2 snippets
-OK   volcengine         3 snippets
+FAIL volcengine         TimeoutError: The read operation timed out
 FAIL openrouter         ValueError: no candidate lines
 FAIL groq               ValueError: no candidate lines
 OK   cerebras           1 snippets
-OK   together           3 snippets
+OK   together           2 snippets
 OK   google-ai          3 snippets
-OK   mistral            2 snippets
-OK   cloudflare-ai      1 snippets
-OK   nvidia-nim         1 snippets
+OK   mistral            3 snippets
+OK   cloudflare-ai      2 snippets
+OK   nvidia-nim         2 snippets
 OK   cursor             1 snippets
 OK   windsurf           1 snippets
 OK   gemini-cli         1 snippets
-FAIL qwen-code          IncompleteRead: IncompleteRead(330696 bytes read)
-OK   openhands          2 snippets
+OK   qwen-code          1 snippets
+OK   openhands          1 snippets
 FAIL manus              ValueError: no candidate lines
 OK   dify               1 snippets
 OK   modal              3 snippets
@@ -23,10 +23,10 @@ FAIL runpod             ValueError: no candidate lines
 FAIL vast               ValueError: no candidate lines
 FAIL lambda             ValueError: no candidate lines
 FAIL colab              ValueError: no candidate lines
-OK   kaggle             1 snippets
+FAIL kaggle             ValueError: no candidate lines
 OK   github-student     3 snippets
 OK   gcp-startup        3 snippets
 OK   aws-activate       3 snippets
 OK   azure-students     3 snippets
 
-26 ok / 4 fail → 750 offers → docs/data.json
+26 ok / 4 fail → 702 offers → docs/data.json

@@ -1,47 +1,8 @@
 {
- "generated_at": "2026-11-18T18:00:57Z",
+ "generated_at": "2026-11-19T00:00:57Z",
  "ok": 26,
  "fail": 4,
  "offers": [
-  {
-   "sid": "dify",
-   "provider": "Dify",
-   "type": "agent",
-   "region": "global",
-   "url": "https://dify.ai/pricing",
-   "text": "Community 社区版免费开源，可自行用 Docker 部署，含全部核心功能、单工作区和开源许可；面向个人开发者及非商业项目。｜Community\nFor open-source enthusiasts, individual developers, and non-commercial projects.\nGet Started Free Features:\nAll Core Features Released Under the Public Repository\nSingle Workspace\nComplies with Dify Open Source License",
-   "first_seen": "2026-11-04T00:00:57Z",
-   "last_seen": "2026-11-04T00:00:57Z",
-   "status": "live",
-   "is_new": false,
-   "source_error": null
-  },
-  {
-   "sid": "dify",
-   "provider": "Dify",
-   "type": "agent",
-   "region": "global",
-   "url": "https://dify.ai/pricing",
-   "text": "社区版开源免费：个人开发者与非商业项目可自部署，含全部公开仓库核心功能，单工作区｜Community\nFor open-source enthusiasts, individual developers, and non-commercial projects.\nGet Started Free Features:\nAll Core Features Released Under the Public Repository\nSingle Workspace",
-   "first_seen": "2026-11-04T18:00:57Z",
-   "last_seen": "2026-11-04T18:00:57Z",
-   "status": "live",
-   "is_new": false,
-   "source_error": null
-  },
-  {
-   "sid": "dify",
-   "provider": "Dify",
-   "type": "agent",
-   "region": "global",
-   "url": "https://dify.ai/pricing",
-   "text": "免费试用档：1工作区1成员，50个知识文档、50MB存储、3000次触发事件、每月5000次API｜For trying out Dify's core features.\n1 Team Workspace\n1 Team Member\n50 Knowledge Documents",
-   "first_seen": "2026-11-04T18:00:57Z",
-   "last_seen": "2026-11-04T18:00:57Z",
-   "status": "live",
-   "is_new": false,
-   "source_error": null
-  },
   {
    "sid": "dify",
    "provider": "Dify",
@@ -351,7 +312,7 @@
    "first_seen": "2026-11-18T00:00:57Z",
    "last_seen": "2026-11-18T00:00:57Z",
    "status": "live",
-   "is_new": true,
+   "is_new": false,
    "source_error": null
   },
   {
@@ -364,7 +325,7 @@
    "first_seen": "2026-11-18T06:00:57Z",
    "last_seen": "2026-11-18T06:00:57Z",
    "status": "live",
-   "is_new": true,
+   "is_new": false,
    "source_error": null
   },
   {
@@ -377,7 +338,7 @@
    "first_seen": "2026-11-18T06:00:57Z",
    "last_seen": "2026-11-18T06:00:57Z",
    "status": "live",
-   "is_new": true,
+   "is_new": false,
    "source_error": null
   },
   {
@@ -453,9 +414,9 @@
    "url": "https://www.all-hands.dev/",
    "text": "OpenHands Teams 可免费试用30天｜Try OpenHands Teams, free for 30 days →",
    "first_seen": "2026-11-18T00:00:57Z",
-   "last_seen": "2026-11-18T00:00:57Z",
+   "last_seen": "2026-11-19T00:00:57Z",
    "status": "live",
-   "is_new": true,
+   "is_new": false,
    "source_error": null
   },
   {
@@ -468,7 +429,7 @@
    "first_seen": "2026-11-18T00:00:57Z",
    "last_seen": "2026-11-18T00:00:57Z",
    "status": "live",
-   "is_new": true,
+   "is_new": false,
    "source_error": null
   },
   {
@@ -481,7 +442,7 @@
    "first_seen": "2026-11-18T06:00:57Z",
    "last_seen": "2026-11-18T06:00:57Z",
    "status": "live",
-   "is_new": true,
+   "is_new": false,
    "source_error": null
   },
   {
@@ -494,7 +455,7 @@
    "first_seen": "2026-11-18T12:00:57Z",
    "last_seen": "2026-11-18T12:00:57Z",
    "status": "live",
-   "is_new": true,
+   "is_new": false,
    "source_error": null
   },
   {
@@ -507,7 +468,7 @@
    "first_seen": "2026-11-18T12:00:57Z",
    "last_seen": "2026-11-18T12:00:57Z",
    "status": "live",
-   "is_new": true,
+   "is_new": false,
    "source_error": null
   },
   {
@@ -520,7 +481,7 @@
    "first_seen": "2026-11-18T18:00:57Z",
    "last_seen": "2026-11-18T18:00:57Z",
    "status": "live",
-   "is_new": true,
+   "is_new": false,
    "source_error": null
   },
   {
@@ -533,7 +494,7 @@
    "first_seen": "2026-11-18T18:00:57Z",
    "last_seen": "2026-11-18T18:00:57Z",
    "status": "live",
-   "is_new": true,
+   "is_new": false,
    "source_error": null
   },
   {
@@ -545,45 +506,6 @@
    "text": "开发者自助按量付费，新用户可获 $5 免费起始额度。｜Self-serve pay-as-you-go with free $5 credit to start ***",
    "first_seen": "2026-11-03T18:00:57Z",
    "last_seen": "2026-11-13T18:00:57Z",
-   "status": "live",
-   "is_new": false,
-   "source_error": null
-  },
-  {
-   "sid": "cerebras",
-   "provider": "Cerebras",
-   "type": "api",
-   "region": "global",
-   "url": "https://www.cerebras.ai/pricing",
-   "text": "新用户可获5美元免费额度，用于自助按量付费的开发者探索用途｜Self-serve pay-as-you-go with free $5 credit to start ***",
-   "first_seen": "2026-11-04T00:00:57Z",
-   "last_seen": "2026-11-04T00:00:57Z",
-   "status": "live",
-   "is_new": false,
-   "source_error": null
-  },
-  {
-   "sid": "cerebras",
-   "provider": "Cerebras",
-   "type": "api",
-   "region": "global",
-   "url": "https://www.cerebras.ai/pricing",
-   "text": "新用户注册即送5美元免费额度，用于开发者自助按量付费试用｜Self-serve pay-as-you-go with free $5 credit to start ***",
-   "first_seen": "2026-11-04T06:00:57Z",
-   "last_seen": "2026-11-04T06:00:57Z",
-   "status": "live",
-   "is_new": false,
-   "source_error": null
-  },
-  {
-   "sid": "cerebras",
-   "provider": "Cerebras",
-   "type": "api",
-   "region": "global",
-   "url": "https://www.cerebras.ai/pricing",
-   "text": "新用户注册开发者套餐即赠5美元免费额度，按量付费，可用于评估与实验｜Self-serve pay-as-you-go with free $5 credit to start ***",
-   "first_seen": "2026-11-04T12:00:57Z",
-   "last_seen": "2026-11-04T12:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -1196,7 +1118,7 @@
    "first_seen": "2026-11-18T00:00:57Z",
    "last_seen": "2026-11-18T00:00:57Z",
    "status": "live",
-   "is_new": true,
+   "is_new": false,
    "source_error": null
   },
   {
@@ -1209,7 +1131,7 @@
    "first_seen": "2026-11-18T12:00:57Z",
    "last_seen": "2026-11-18T12:00:57Z",
    "status": "live",
-   "is_new": true,
+   "is_new": false,
    "source_error": null
   },
   {
@@ -1222,59 +1144,20 @@
    "first_seen": "2026-11-18T18:00:57Z",
    "last_seen": "2026-11-18T18:00:57Z",
    "status": "live",
+   "is_new": false,
+   "source_error": null
+  },
+  {
+   "sid": "cerebras",
+   "provider": "Cerebras",
+   "type": "api",
+   "region": "global",
+   "url": "https://www.cerebras.ai/pricing",
+   "text": "新用户可获5美元免费起始额度，用于自助按量付费的开发/试验用途｜Self-serve pay-as-you-go with free $5 credit to start ***",
+   "first_seen": "2026-11-19T00:00:57Z",
+   "last_seen": "2026-11-19T00:00:57Z",
+   "status": "live",
    "is_new": true,
-   "source_error": null
-  },
-  {
-   "sid": "cloudflare-ai",
-   "provider": "Cloudflare Workers AI",
-   "type": "api",
-   "region": "global",
-   "url": "https://developers.cloudflare.com/workers-ai/platform/pricing/",
-   "text": "Workers 免费计划每日提供 10,000 Neurons 免费额度，每日 00:00 UTC 重置，超出后需升级到付费计划｜Workers Free\n10,000 Neurons per day\nN/A - Upgrade to Workers Paid",
-   "first_seen": "2026-11-04T00:00:57Z",
-   "last_seen": "2026-11-04T00:00:57Z",
-   "status": "live",
-   "is_new": false,
-   "source_error": null
-  },
-  {
-   "sid": "cloudflare-ai",
-   "provider": "Cloudflare Workers AI",
-   "type": "api",
-   "region": "global",
-   "url": "https://developers.cloudflare.com/workers-ai/platform/pricing/",
-   "text": "Workers 免费计划内置 Workers AI，每天赠送 10,000 Neurons 推理额度，额度每日 00:00 UTC 重置，超出需升级付费版｜Workers Free\n10,000 Neurons per day\nN/A - Upgrade to Workers Paid",
-   "first_seen": "2026-11-04T06:00:57Z",
-   "last_seen": "2026-11-04T06:00:57Z",
-   "status": "live",
-   "is_new": false,
-   "source_error": null
-  },
-  {
-   "sid": "cloudflare-ai",
-   "provider": "Cloudflare Workers AI",
-   "type": "api",
-   "region": "global",
-   "url": "https://developers.cloudflare.com/workers-ai/platform/pricing/",
-   "text": "Workers Free 计划每日含 10,000 Neurons 免费额度｜Workers Free\n10,000 Neurons per day\nN/A - Upgrade to Workers Paid",
-   "first_seen": "2026-11-04T12:00:57Z",
-   "last_seen": "2026-11-04T12:00:57Z",
-   "status": "live",
-   "is_new": false,
-   "source_error": null
-  },
-  {
-   "sid": "cloudflare-ai",
-   "provider": "Cloudflare Workers AI",
-   "type": "api",
-   "region": "global",
-   "url": "https://developers.cloudflare.com/workers-ai/platform/pricing/",
-   "text": "Workers 免费计划每日赠送 10,000 Neurons，额度每天 00:00 UTC 重置，超出需升级付费版｜Workers Free\n10,000 Neurons per day\nN/A - Upgrade to Workers Paid",
-   "first_seen": "2026-11-04T18:00:57Z",
-   "last_seen": "2026-11-04T18:00:57Z",
-   "status": "live",
-   "is_new": false,
    "source_error": null
   },
   {
@@ -1963,7 +1846,7 @@
    "first_seen": "2026-11-18T00:00:57Z",
    "last_seen": "2026-11-18T00:00:57Z",
    "status": "live",
-   "is_new": true,
+   "is_new": false,
    "source_error": null
   },
   {
@@ -1976,7 +1859,7 @@
    "first_seen": "2026-11-18T06:00:57Z",
    "last_seen": "2026-11-18T06:00:57Z",
    "status": "live",
-   "is_new": true,
+   "is_new": false,
    "source_error": null
   },
   {
@@ -1989,7 +1872,7 @@
    "first_seen": "2026-11-18T12:00:57Z",
    "last_seen": "2026-11-18T12:00:57Z",
    "status": "live",
-   "is_new": true,
+   "is_new": false,
    "source_error": null
   },
   {
@@ -2002,46 +1885,20 @@
    "first_seen": "2026-11-18T18:00:57Z",
    "last_seen": "2026-11-18T18:00:57Z",
    "status": "live",
+   "is_new": false,
+   "source_error": null
+  },
+  {
+   "sid": "cloudflare-ai",
+   "provider": "Cloudflare Workers AI",
+   "type": "api",
+   "region": "global",
+   "url": "https://developers.cloudflare.com/workers-ai/platform/pricing/",
+   "text": "Workers 免费计划每日赠送 10,000 Neurons 推理额度，每日 UTC 0 点重置；超出需升级付费计划｜Workers Free\n10,000 Neurons per day\nN/A - Upgrade to Workers Paid",
+   "first_seen": "2026-11-19T00:00:57Z",
+   "last_seen": "2026-11-19T00:00:57Z",
+   "status": "live",
    "is_new": true,
-   "source_error": null
-  },
-  {
-   "sid": "deepseek",
-   "provider": "DeepSeek 开放平台",
-   "type": "api",
-   "region": "cn",
-   "url": "https://api-docs.deepseek.com/zh-cn/quick_start/pricing",
-   "text": "费用可先赠送余额扣减，充值余额与赠送余额并存时优先扣除赠送余额（页面未写明赠送额度）｜对应的费用将直接从充值余额或赠送余额中进行扣减。 当充值余额与赠送余额同时存在时，优先扣减赠送余额。",
-   "first_seen": "2026-11-04T00:00:57Z",
-   "last_seen": "2026-11-04T00:00:57Z",
-   "status": "live",
-   "is_new": false,
-   "source_error": null
-  },
-  {
-   "sid": "deepseek",
-   "provider": "DeepSeek 开放平台",
-   "type": "api",
-   "region": "cn",
-   "url": "https://api-docs.deepseek.com/zh-cn/quick_start/pricing",
-   "text": "Harness/Claude Code/Codex 中调用 Search/Fetch 目前免费，2026-11-01 00:00 起计费｜请注意，当前用户在 DeepSeek Harness/Claude Code/Codex 中使用 DeepSeek API 时，已经会通过 Server 端工具调用访问到 Search/Fetch 接口，这部分 Search/Fetch 接口调用目前未计费，并将于北京时间 2026 年 11 月 1 日 00:00 起按次收取调用费用。",
-   "first_seen": "2026-11-04T06:00:57Z",
-   "last_seen": "2026-11-04T06:00:57Z",
-   "status": "live",
-   "is_new": false,
-   "source_error": null
-  },
-  {
-   "sid": "deepseek",
-   "provider": "DeepSeek 开放平台",
-   "type": "api",
-   "region": "cn",
-   "url": "https://api-docs.deepseek.com/zh-cn/quick_start/pricing",
-   "text": "平台存在赠送余额，调用费用可直接从赠送余额中扣减；与充值余额同时存在时优先扣减赠送余额（页面未注明额度与获取条件）｜对应的费用将直接从充值余额或赠送余额中进行扣减。 当充值余额与赠送余额同时存在时，优先扣减赠送余额。",
-   "first_seen": "2026-11-04T18:00:57Z",
-   "last_seen": "2026-11-04T18:00:57Z",
-   "status": "live",
-   "is_new": false,
    "source_error": null
   },
   {
@@ -2091,7 +1948,7 @@
    "url": "https://ai.google.dev/gemini-api/docs/pricing",
    "text": "Input price | Free of charge | $1.50",
    "first_seen": "2026-11-12T18:00:58Z",
-   "last_seen": "2026-11-18T18:00:57Z",
+   "last_seen": "2026-11-19T00:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -2104,7 +1961,7 @@
    "url": "https://ai.google.dev/gemini-api/docs/pricing",
    "text": "Output price (including thinking tokens) | Free of charge | $7.50",
    "first_seen": "2026-11-12T18:00:58Z",
-   "last_seen": "2026-11-18T18:00:57Z",
+   "last_seen": "2026-11-19T00:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -2117,33 +1974,7 @@
    "url": "https://ai.google.dev/gemini-api/docs/pricing",
    "text": "Context caching price | Free of charge | $0.075 Implicit caching only (explicit caching is not supported).",
    "first_seen": "2026-11-12T18:00:58Z",
-   "last_seen": "2026-11-18T18:00:57Z",
-   "status": "live",
-   "is_new": false,
-   "source_error": null
-  },
-  {
-   "sid": "mistral",
-   "provider": "Mistral AI",
-   "type": "api",
-   "region": "global",
-   "url": "https://mistral.ai/pricing",
-   "text": "Free 计划永久免费：有限访问 Vibe（最新模型、聊天、搜索、创作、终端编码代理）及 Mistral Studio。｜Yes, Mistral’s Free plan provides limited access to Vibe , including our latest models, chat, search, creation, and Vibe for code for agentic coding in your terminal. On the Free plan, you also get access to Mistral Studio .",
-   "first_seen": "2026-11-04T00:00:57Z",
-   "last_seen": "2026-11-04T00:00:57Z",
-   "status": "live",
-   "is_new": false,
-   "source_error": null
-  },
-  {
-   "sid": "mistral",
-   "provider": "Mistral AI",
-   "type": "api",
-   "region": "global",
-   "url": "https://mistral.ai/pricing",
-   "text": "永久免费档 Mistral Free：有限量访问最新模型、聊天、搜索、创作及终端 Vibe 编码，含 Mistral Studio｜Yes, Mistral’s Free plan provides limited access to Vibe , including our latest models, chat, search, creation, and Vibe for code for agentic coding in your terminal.",
-   "first_seen": "2026-11-04T06:00:57Z",
-   "last_seen": "2026-11-04T06:00:57Z",
+   "last_seen": "2026-11-19T00:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -2418,7 +2249,7 @@
    "first_seen": "2026-11-18T00:00:57Z",
    "last_seen": "2026-11-18T00:00:57Z",
    "status": "live",
-   "is_new": true,
+   "is_new": false,
    "source_error": null
   },
   {
@@ -2431,7 +2262,7 @@
    "first_seen": "2026-11-18T00:00:57Z",
    "last_seen": "2026-11-18T00:00:57Z",
    "status": "live",
-   "is_new": true,
+   "is_new": false,
    "source_error": null
   },
   {
@@ -2444,6 +2275,32 @@
    "first_seen": "2026-11-18T06:00:57Z",
    "last_seen": "2026-11-18T06:00:57Z",
    "status": "live",
+   "is_new": false,
+   "source_error": null
+  },
+  {
+   "sid": "mistral",
+   "provider": "Mistral AI",
+   "type": "api",
+   "region": "global",
+   "url": "https://mistral.ai/pricing",
+   "text": "Mistral 永久免费档：可使用 Vibe 的有限额度，含最新模型、聊天、搜索、创作、终端编程，以及 Mistral Studio｜Yes, Mistral’s Free plan provides limited access to Vibe , including our latest models, chat, search, creation, and Vibe for code for agentic coding in your terminal. On the Free plan, you also get access to Mistral Studio .",
+   "first_seen": "2026-11-19T00:00:57Z",
+   "last_seen": "2026-11-19T00:00:57Z",
+   "status": "live",
+   "is_new": true,
+   "source_error": null
+  },
+  {
+   "sid": "mistral",
+   "provider": "Mistral AI",
+   "type": "api",
+   "region": "global",
+   "url": "https://mistral.ai/pricing",
+   "text": "教育计划：认证高校学生可免费使用 Vibe 全部功能（全天编程/长任务），最长12个月，需此前未用过 Vibe 或 Le Chat｜Valid for a maximum of 12 months for verified students at accredited higher institutions and if you haven't used Vibe (or Le Chat) before.",
+   "first_seen": "2026-11-19T00:00:57Z",
+   "last_seen": "2026-11-19T00:00:57Z",
+   "status": "live",
    "is_new": true,
    "source_error": null
   },
@@ -2455,7 +2312,7 @@
    "url": "https://build.nvidia.com/",
    "text": "* How many requests can I make?The free tier runs on rate limits - up to 40 requests per minute (RPM) for most models, with no per-token billing. Your personal rate limit is shown in the top-right of the dashboard.",
    "first_seen": "2026-11-04T00:00:57Z",
-   "last_seen": "2026-11-18T06:00:57Z",
+   "last_seen": "2026-11-19T00:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -2468,33 +2325,7 @@
    "url": "https://build.nvidia.com/",
    "text": "* Why are the API endpoints free?We believe open model inference offers the best cost-performance for most workloads. The free tier exists so you can verify that yourself before committing to anything.",
    "first_seen": "2026-11-04T00:00:57Z",
-   "last_seen": "2026-11-18T06:00:57Z",
-   "status": "live",
-   "is_new": false,
-   "source_error": null
-  },
-  {
-   "sid": "nvidia-nim",
-   "provider": "NVIDIA NIM",
-   "type": "api",
-   "region": "global",
-   "url": "https://build.nvidia.com/",
-   "text": "免费层按速率限制：多数模型最高40 RPM，无按token计费。｜The free tier runs on rate limits - up to 40 requests per minute (RPM) for most models, with no per-token billing.",
-   "first_seen": "2026-11-04T06:00:57Z",
-   "last_seen": "2026-11-04T06:00:57Z",
-   "status": "live",
-   "is_new": false,
-   "source_error": null
-  },
-  {
-   "sid": "nvidia-nim",
-   "provider": "NVIDIA NIM",
-   "type": "api",
-   "region": "global",
-   "url": "https://build.nvidia.com/",
-   "text": "所有模型可免费原型使用；免费层多数模型限速40 RPM，无按token计费。｜The free tier runs on rate limits - up to 40 requests per minute (RPM) for most models, with no per-token billing.",
-   "first_seen": "2026-11-04T18:00:57Z",
-   "last_seen": "2026-11-04T18:00:57Z",
+   "last_seen": "2026-11-19T00:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -3029,7 +2860,7 @@
    "first_seen": "2026-11-18T12:00:57Z",
    "last_seen": "2026-11-18T12:00:57Z",
    "status": "live",
-   "is_new": true,
+   "is_new": false,
    "source_error": null
   },
   {
@@ -3042,7 +2873,7 @@
    "first_seen": "2026-11-18T18:00:57Z",
    "last_seen": "2026-11-18T18:00:57Z",
    "status": "live",
-   "is_new": true,
+   "is_new": false,
    "source_error": null
   },
   {
@@ -3096,110 +2927,6 @@
    "status": "live",
    "is_new": false,
    "source_error": "ValueError: no candidate lines"
-  },
-  {
-   "sid": "together",
-   "provider": "Together AI",
-   "type": "api",
-   "region": "global",
-   "url": "https://www.together.ai/pricing",
-   "text": "Ternary Bonsai 27B 模型输入与输出价格均为 $0.00，即免费调用。｜Ternary Bonsai 27B](https://www.together.ai/models/prism-ml-ternary-bonsai-27b) | $0.00 | $0.00",
-   "first_seen": "2026-11-04T00:00:57Z",
-   "last_seen": "2026-11-04T00:00:57Z",
-   "status": "live",
-   "is_new": false,
-   "source_error": null
-  },
-  {
-   "sid": "together",
-   "provider": "Together AI",
-   "type": "api",
-   "region": "global",
-   "url": "https://www.together.ai/pricing",
-   "text": "Tev1 4B Experimental 模型输出免费，输入仅 $0.04/百万 tokens。｜Tev1 4B Experimental](https://www.together.ai/models/tev1-4b-experimental) | $0.04 | Free",
-   "first_seen": "2026-11-04T00:00:57Z",
-   "last_seen": "2026-11-04T00:00:57Z",
-   "status": "live",
-   "is_new": false,
-   "source_error": null
-  },
-  {
-   "sid": "together",
-   "provider": "Together AI",
-   "type": "api",
-   "region": "global",
-   "url": "https://www.together.ai/pricing",
-   "text": "Ternary Bonsai 27B 模型输入与输出均 $0.00，即完全免费使用｜Ternary Bonsai 27B](https://www.together.ai/models/prism-ml-ternary-bonsai-27b) | $0.00 | $0.00",
-   "first_seen": "2026-11-04T06:00:57Z",
-   "last_seen": "2026-11-04T06:00:57Z",
-   "status": "live",
-   "is_new": false,
-   "source_error": null
-  },
-  {
-   "sid": "together",
-   "provider": "Together AI",
-   "type": "api",
-   "region": "global",
-   "url": "https://www.together.ai/pricing",
-   "text": "Tev1 4B Experimental 实验模型输出免费，输入 $0.04/百万token｜Tev1 4B Experimental](https://www.together.ai/models/tev1-4b-experimental) | $0.04 | Free",
-   "first_seen": "2026-11-04T06:00:57Z",
-   "last_seen": "2026-11-04T06:00:57Z",
-   "status": "live",
-   "is_new": false,
-   "source_error": null
-  },
-  {
-   "sid": "together",
-   "provider": "Together AI",
-   "type": "api",
-   "region": "global",
-   "url": "https://www.together.ai/pricing",
-   "text": "Tev1 4B Experimental：输入$0.04/1M tokens，输出免费｜Tev1 4B Experimental](https://www.together.ai/models/tev1-4b-experimental)$0.04 Free",
-   "first_seen": "2026-11-04T12:00:57Z",
-   "last_seen": "2026-11-04T12:00:57Z",
-   "status": "live",
-   "is_new": false,
-   "source_error": null
-  },
-  {
-   "sid": "together",
-   "provider": "Together AI",
-   "type": "api",
-   "region": "global",
-   "url": "https://www.together.ai/pricing",
-   "text": "Ternary Bonsai 27B：输入/输出均$0.00/1M tokens，免费使用｜Ternary Bonsai 27B](https://www.together.ai/models/prism-ml-ternary-bonsai-27b)$0.00$0.00",
-   "first_seen": "2026-11-04T12:00:57Z",
-   "last_seen": "2026-11-04T12:00:57Z",
-   "status": "live",
-   "is_new": false,
-   "source_error": null
-  },
-  {
-   "sid": "together",
-   "provider": "Together AI",
-   "type": "api",
-   "region": "global",
-   "url": "https://www.together.ai/pricing",
-   "text": "Ternary Bonsai 27B 模型输入输出均为 $0.00，可免费调用｜Ternary Bonsai 27B](https://www.together.ai/models/prism-ml-ternary-bonsai-27b) | $0.00 | $0.00",
-   "first_seen": "2026-11-04T18:00:57Z",
-   "last_seen": "2026-11-04T18:00:57Z",
-   "status": "live",
-   "is_new": false,
-   "source_error": null
-  },
-  {
-   "sid": "together",
-   "provider": "Together AI",
-   "type": "api",
-   "region": "global",
-   "url": "https://www.together.ai/pricing",
-   "text": "实验模型 Tev1 4B 输入 $0.04/百万token，输出完全免费｜Tev1 4B Experimental](https://www.together.ai/models/tev1-4b-experimental) | $0.04 | Free",
-   "first_seen": "2026-11-04T18:00:57Z",
-   "last_seen": "2026-11-04T18:00:57Z",
-   "status": "live",
-   "is_new": false,
-   "source_error": null
   },
   {
    "sid": "together",
@@ -3978,7 +3705,7 @@
    "first_seen": "2026-11-18T00:00:57Z",
    "last_seen": "2026-11-18T00:00:57Z",
    "status": "live",
-   "is_new": true,
+   "is_new": false,
    "source_error": null
   },
   {
@@ -3991,7 +3718,7 @@
    "first_seen": "2026-11-18T06:00:57Z",
    "last_seen": "2026-11-18T06:00:57Z",
    "status": "live",
-   "is_new": true,
+   "is_new": false,
    "source_error": null
   },
   {
@@ -4004,7 +3731,7 @@
    "first_seen": "2026-11-18T06:00:57Z",
    "last_seen": "2026-11-18T06:00:57Z",
    "status": "live",
-   "is_new": true,
+   "is_new": false,
    "source_error": null
   },
   {
@@ -4017,7 +3744,7 @@
    "first_seen": "2026-11-18T12:00:57Z",
    "last_seen": "2026-11-18T12:00:57Z",
    "status": "live",
-   "is_new": true,
+   "is_new": false,
    "source_error": null
   },
   {
@@ -4030,7 +3757,7 @@
    "first_seen": "2026-11-18T18:00:57Z",
    "last_seen": "2026-11-18T18:00:57Z",
    "status": "live",
-   "is_new": true,
+   "is_new": false,
    "source_error": null
   },
   {
@@ -4043,98 +3770,20 @@
    "first_seen": "2026-11-18T18:00:57Z",
    "last_seen": "2026-11-18T18:00:57Z",
    "status": "live",
+   "is_new": false,
+   "source_error": null
+  },
+  {
+   "sid": "together",
+   "provider": "Together AI",
+   "type": "api",
+   "region": "global",
+   "url": "https://www.together.ai/pricing",
+   "text": "Ternary Bonsai 27B 模型输入和输出均免费，无使用限制说明｜prism-ml-ternary-bonsai-27b) | Free | Free",
+   "first_seen": "2026-11-19T00:00:57Z",
+   "last_seen": "2026-11-19T00:00:57Z",
+   "status": "live",
    "is_new": true,
-   "source_error": null
-  },
-  {
-   "sid": "bigmodel",
-   "provider": "智谱 BigModel",
-   "type": "api",
-   "region": "cn",
-   "url": "https://open.bigmodel.cn/pricing",
-   "text": "文本模型 GLM-4.7-Flash 永久免费，200K 上下文，输入/输出/缓存全免｜文本模型 GLM-4.7-Flash（200K上下文）：输入免费、输出免费、缓存免费",
-   "first_seen": "2026-11-04T00:00:57Z",
-   "last_seen": "2026-11-04T00:00:57Z",
-   "status": "live",
-   "is_new": false,
-   "source_error": null
-  },
-  {
-   "sid": "bigmodel",
-   "provider": "智谱 BigModel",
-   "type": "api",
-   "region": "cn",
-   "url": "https://open.bigmodel.cn/pricing",
-   "text": "视觉模型 GLM-4.6V-Flash 永久免费，输入/输出/缓存均免费｜视觉模型 GLM-4.6V-Flash：输入免费、输出免费、缓存免费",
-   "first_seen": "2026-11-04T00:00:57Z",
-   "last_seen": "2026-11-04T00:00:57Z",
-   "status": "live",
-   "is_new": false,
-   "source_error": null
-  },
-  {
-   "sid": "bigmodel",
-   "provider": "智谱 BigModel",
-   "type": "api",
-   "region": "cn",
-   "url": "https://open.bigmodel.cn/pricing",
-   "text": "免费文本模型 GLM-4.7-Flash（200K 上下文），输入、输出、缓存全部免费｜* 文本模型 GLM-4.7-Flash（200K上下文）：输入免费、输出免费、缓存免费",
-   "first_seen": "2026-11-04T06:00:57Z",
-   "last_seen": "2026-11-04T06:00:57Z",
-   "status": "live",
-   "is_new": false,
-   "source_error": null
-  },
-  {
-   "sid": "bigmodel",
-   "provider": "智谱 BigModel",
-   "type": "api",
-   "region": "cn",
-   "url": "https://open.bigmodel.cn/pricing",
-   "text": "免费视觉模型 GLM-4.6V-Flash，输入、输出、缓存全部免费｜* 视觉模型 GLM-4.6V-Flash：输入免费、输出免费、缓存免费",
-   "first_seen": "2026-11-04T06:00:57Z",
-   "last_seen": "2026-11-04T06:00:57Z",
-   "status": "live",
-   "is_new": false,
-   "source_error": null
-  },
-  {
-   "sid": "bigmodel",
-   "provider": "智谱 BigModel",
-   "type": "api",
-   "region": "cn",
-   "url": "https://open.bigmodel.cn/pricing",
-   "text": "免费文本模型 GLM-4.7-Flash，200K 上下文，输入、输出、缓存全部免费，永久可用。｜文本模型 GLM-4.7-Flash（200K上下文）：输入免费、输出免费、缓存免费",
-   "first_seen": "2026-11-04T12:00:57Z",
-   "last_seen": "2026-11-04T12:00:57Z",
-   "status": "live",
-   "is_new": false,
-   "source_error": null
-  },
-  {
-   "sid": "bigmodel",
-   "provider": "智谱 BigModel",
-   "type": "api",
-   "region": "cn",
-   "url": "https://open.bigmodel.cn/pricing",
-   "text": "免费视觉模型 GLM-4.6V-Flash，输入、输出、缓存均免费。｜视觉模型 GLM-4.6V-Flash：输入免费、输出免费、缓存免费",
-   "first_seen": "2026-11-04T12:00:57Z",
-   "last_seen": "2026-11-04T12:00:57Z",
-   "status": "live",
-   "is_new": false,
-   "source_error": null
-  },
-  {
-   "sid": "bigmodel",
-   "provider": "智谱 BigModel",
-   "type": "api",
-   "region": "cn",
-   "url": "https://open.bigmodel.cn/pricing",
-   "text": "永久免费文本模型GLM-4.7-Flash，200K上下文，输入、输出、缓存全部免费｜文本模型 GLM-4.7-Flash（200K上下文）：输入免费、输出免费、缓存免费",
-   "first_seen": "2026-11-04T18:00:57Z",
-   "last_seen": "2026-11-04T18:00:57Z",
-   "status": "live",
-   "is_new": false,
    "source_error": null
   },
   {
@@ -4862,7 +4511,7 @@
    "first_seen": "2026-11-18T00:00:57Z",
    "last_seen": "2026-11-18T00:00:57Z",
    "status": "live",
-   "is_new": true,
+   "is_new": false,
    "source_error": null
   },
   {
@@ -4875,7 +4524,7 @@
    "first_seen": "2026-11-18T06:00:57Z",
    "last_seen": "2026-11-18T06:00:57Z",
    "status": "live",
-   "is_new": true,
+   "is_new": false,
    "source_error": null
   },
   {
@@ -4888,7 +4537,7 @@
    "first_seen": "2026-11-18T12:00:57Z",
    "last_seen": "2026-11-18T12:00:57Z",
    "status": "live",
-   "is_new": true,
+   "is_new": false,
    "source_error": null
   },
   {
@@ -4901,7 +4550,7 @@
    "first_seen": "2026-11-18T12:00:57Z",
    "last_seen": "2026-11-18T12:00:57Z",
    "status": "live",
-   "is_new": true,
+   "is_new": false,
    "source_error": null
   },
   {
@@ -4913,6 +4562,32 @@
    "text": "文本模型 GLM-4.7-Flash 永久免费，含 200K 上下文，输入、输出、缓存均免费｜文本模型 GLM-4.7-Flash（200K上下文）：输入免费、输出免费、缓存免费",
    "first_seen": "2026-11-18T18:00:57Z",
    "last_seen": "2026-11-18T18:00:57Z",
+   "status": "live",
+   "is_new": false,
+   "source_error": null
+  },
+  {
+   "sid": "bigmodel",
+   "provider": "智谱 BigModel",
+   "type": "api",
+   "region": "cn",
+   "url": "https://open.bigmodel.cn/pricing",
+   "text": "文本模型 GLM-4.7-Flash（200K上下文）API 输入、输出、缓存全部免费，无期限说明｜文本模型 GLM-4.7-Flash（200K上下文）：输入免费、输出免费、缓存免费",
+   "first_seen": "2026-11-19T00:00:57Z",
+   "last_seen": "2026-11-19T00:00:57Z",
+   "status": "live",
+   "is_new": true,
+   "source_error": null
+  },
+  {
+   "sid": "bigmodel",
+   "provider": "智谱 BigModel",
+   "type": "api",
+   "region": "cn",
+   "url": "https://open.bigmodel.cn/pricing",
+   "text": "视觉模型 GLM-4.6V-Flash API 输入、输出、缓存全部免费｜视觉模型 GLM-4.6V-Flash：输入免费、输出免费、缓存免费",
+   "first_seen": "2026-11-19T00:00:57Z",
+   "last_seen": "2026-11-19T00:00:57Z",
    "status": "live",
    "is_new": true,
    "source_error": null
@@ -4928,33 +4603,7 @@
    "last_seen": "2026-11-16T18:00:58Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
-  },
-  {
-   "sid": "volcengine",
-   "provider": "火山方舟",
-   "type": "api",
-   "region": "cn",
-   "url": "https://www.volcengine.com/docs/82379/1099320",
-   "text": "Managed Agents 首次开通赠送免费额度包：30 小时 Agent 运行时和 500 次 web_search 调用，每账号仅一次，有效期 2 年。｜Managed Agents 首次开通即赠送免费额度包: 30 小时 Agent 运行时 + 500 次 web_search 调用 。",
-   "first_seen": "2026-11-04T00:00:57Z",
-   "last_seen": "2026-11-04T00:00:57Z",
-   "status": "live",
-   "is_new": false,
-   "source_error": null
-  },
-  {
-   "sid": "volcengine",
-   "provider": "火山方舟",
-   "type": "api",
-   "region": "cn",
-   "url": "https://www.volcengine.com/docs/82379/1099320",
-   "text": "联网内容插件实时搜索公开网页，每月赠送 2 万次免费调用额度。｜实时搜索互联网公开域内容，每月提供2万次免费额度。",
-   "first_seen": "2026-11-04T00:00:57Z",
-   "last_seen": "2026-11-04T00:00:57Z",
-   "status": "live",
-   "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -4967,46 +4616,7 @@
    "last_seen": "2026-11-14T12:00:58Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
-  },
-  {
-   "sid": "volcengine",
-   "provider": "火山方舟",
-   "type": "api",
-   "region": "cn",
-   "url": "https://www.volcengine.com/docs/82379/1099320",
-   "text": "联网内容插件实时搜索公开域内容，每月2万次免费额度｜实时搜索互联网公开域内容，每月提供2万次免费额度。",
-   "first_seen": "2026-11-04T06:00:57Z",
-   "last_seen": "2026-11-04T06:00:57Z",
-   "status": "live",
-   "is_new": false,
-   "source_error": null
-  },
-  {
-   "sid": "volcengine",
-   "provider": "火山方舟",
-   "type": "api",
-   "region": "cn",
-   "url": "https://www.volcengine.com/docs/82379/1099320",
-   "text": "Managed Agents 首次开通赠送 30 小时 Agent 运行时和 500 次 web_search 调用；每账号仅限一次，有效期 2 年｜Managed Agents 首次开通即赠送免费额度包:30 小时 Agent 运行时 + 500 次 web_search 调用。",
-   "first_seen": "2026-11-04T12:00:57Z",
-   "last_seen": "2026-11-04T12:00:57Z",
-   "status": "live",
-   "is_new": false,
-   "source_error": null
-  },
-  {
-   "sid": "volcengine",
-   "provider": "火山方舟",
-   "type": "api",
-   "region": "cn",
-   "url": "https://www.volcengine.com/docs/82379/1099320",
-   "text": "每周提供 2 万次互联网实时搜索的免费额度｜实时搜索互联网公开域内容，每月提供2万次免费额度。",
-   "first_seen": "2026-11-04T12:00:57Z",
-   "last_seen": "2026-11-04T12:00:57Z",
-   "status": "live",
-   "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5019,7 +4629,7 @@
    "last_seen": "2026-11-18T18:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5032,7 +4642,7 @@
    "last_seen": "2026-11-11T06:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5045,7 +4655,7 @@
    "last_seen": "2026-11-05T00:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5058,7 +4668,7 @@
    "last_seen": "2026-11-05T06:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5071,7 +4681,7 @@
    "last_seen": "2026-11-05T12:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5084,7 +4694,7 @@
    "last_seen": "2026-11-05T18:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5097,7 +4707,7 @@
    "last_seen": "2026-11-05T18:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5110,7 +4720,7 @@
    "last_seen": "2026-11-18T00:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5123,7 +4733,7 @@
    "last_seen": "2026-11-07T00:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5136,7 +4746,7 @@
    "last_seen": "2026-11-07T12:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5149,7 +4759,7 @@
    "last_seen": "2026-11-07T18:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5162,7 +4772,7 @@
    "last_seen": "2026-11-07T18:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5175,7 +4785,7 @@
    "last_seen": "2026-11-08T00:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5188,7 +4798,7 @@
    "last_seen": "2026-11-08T06:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5201,7 +4811,7 @@
    "last_seen": "2026-11-08T06:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5214,7 +4824,7 @@
    "last_seen": "2026-11-08T06:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5227,7 +4837,7 @@
    "last_seen": "2026-11-08T12:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5240,7 +4850,7 @@
    "last_seen": "2026-11-08T12:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5253,7 +4863,7 @@
    "last_seen": "2026-11-08T18:00:58Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5266,7 +4876,7 @@
    "last_seen": "2026-11-08T18:00:58Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5279,7 +4889,7 @@
    "last_seen": "2026-11-09T00:00:58Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5292,7 +4902,7 @@
    "last_seen": "2026-11-09T06:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5305,7 +4915,7 @@
    "last_seen": "2026-11-09T06:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5318,7 +4928,7 @@
    "last_seen": "2026-11-09T12:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5331,7 +4941,7 @@
    "last_seen": "2026-11-10T00:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5344,7 +4954,7 @@
    "last_seen": "2026-11-10T06:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5357,7 +4967,7 @@
    "last_seen": "2026-11-10T06:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5370,7 +4980,7 @@
    "last_seen": "2026-11-10T12:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5383,7 +4993,7 @@
    "last_seen": "2026-11-10T12:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5396,7 +5006,7 @@
    "last_seen": "2026-11-10T18:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5409,7 +5019,7 @@
    "last_seen": "2026-11-12T00:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5422,7 +5032,7 @@
    "last_seen": "2026-11-12T00:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5435,7 +5045,7 @@
    "last_seen": "2026-11-12T06:00:58Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5448,7 +5058,7 @@
    "last_seen": "2026-11-12T12:00:58Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5461,7 +5071,7 @@
    "last_seen": "2026-11-12T18:00:58Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5474,7 +5084,7 @@
    "last_seen": "2026-11-13T00:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5487,7 +5097,7 @@
    "last_seen": "2026-11-13T06:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5500,7 +5110,7 @@
    "last_seen": "2026-11-17T12:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5513,7 +5123,7 @@
    "last_seen": "2026-11-17T12:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5526,7 +5136,7 @@
    "last_seen": "2026-11-13T18:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5539,7 +5149,7 @@
    "last_seen": "2026-11-18T18:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5552,7 +5162,7 @@
    "last_seen": "2026-11-14T06:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5565,7 +5175,7 @@
    "last_seen": "2026-11-14T06:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5578,7 +5188,7 @@
    "last_seen": "2026-11-14T12:00:58Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5591,7 +5201,7 @@
    "last_seen": "2026-11-14T18:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5604,7 +5214,7 @@
    "last_seen": "2026-11-15T00:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5617,7 +5227,7 @@
    "last_seen": "2026-11-15T06:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5630,7 +5240,7 @@
    "last_seen": "2026-11-15T12:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5643,7 +5253,7 @@
    "last_seen": "2026-11-15T18:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5656,7 +5266,7 @@
    "last_seen": "2026-11-15T18:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5669,7 +5279,7 @@
    "last_seen": "2026-11-16T06:00:58Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5682,7 +5292,7 @@
    "last_seen": "2026-11-16T06:00:58Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5695,7 +5305,7 @@
    "last_seen": "2026-11-17T00:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5708,7 +5318,7 @@
    "last_seen": "2026-11-17T18:00:58Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5721,7 +5331,7 @@
    "last_seen": "2026-11-17T18:00:58Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5733,8 +5343,8 @@
    "first_seen": "2026-11-18T00:00:57Z",
    "last_seen": "2026-11-18T00:00:57Z",
    "status": "live",
-   "is_new": true,
-   "source_error": null
+   "is_new": false,
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5746,8 +5356,8 @@
    "first_seen": "2026-11-18T00:00:57Z",
    "last_seen": "2026-11-18T00:00:57Z",
    "status": "live",
-   "is_new": true,
-   "source_error": null
+   "is_new": false,
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "volcengine",
@@ -5759,8 +5369,8 @@
    "first_seen": "2026-11-18T06:00:57Z",
    "last_seen": "2026-11-18T06:00:57Z",
    "status": "live",
-   "is_new": true,
-   "source_error": null
+   "is_new": false,
+   "source_error": "TimeoutError: The read operation timed out"
   },
   {
    "sid": "siliconflow",
@@ -5770,46 +5380,7 @@
    "url": "https://siliconflow.cn/pricing",
    "text": "输入 UTF-8 字节 每千字符（UTF-8） 免费",
    "first_seen": "2026-11-03T17:34:19Z",
-   "last_seen": "2026-11-18T18:00:57Z",
-   "status": "live",
-   "is_new": false,
-   "source_error": null
-  },
-  {
-   "sid": "siliconflow",
-   "provider": "硅基流动 SiliconFlow",
-   "type": "api",
-   "region": "cn",
-   "url": "https://siliconflow.cn/pricing",
-   "text": "SenseVoiceSmall 语音识别模型按每千字符计费，永久免费｜输入 UTF-8 字节 每千字符（UTF-8） 免费",
-   "first_seen": "2026-11-04T00:00:57Z",
-   "last_seen": "2026-11-04T00:00:57Z",
-   "status": "live",
-   "is_new": false,
-   "source_error": null
-  },
-  {
-   "sid": "siliconflow",
-   "provider": "硅基流动 SiliconFlow",
-   "type": "api",
-   "region": "cn",
-   "url": "https://siliconflow.cn/pricing",
-   "text": "SenseVoiceSmall 语音模型按字符计费免费｜SenseVoiceSmall FunAudioLLM/SenseVoiceSmall 输入 UTF-8 字节 每千字符（UTF-8） 免费",
-   "first_seen": "2026-11-04T06:00:57Z",
-   "last_seen": "2026-11-04T06:00:57Z",
-   "status": "live",
-   "is_new": false,
-   "source_error": null
-  },
-  {
-   "sid": "siliconflow",
-   "provider": "硅基流动 SiliconFlow",
-   "type": "api",
-   "region": "cn",
-   "url": "https://siliconflow.cn/pricing",
-   "text": "FunAudioLLM 的 SenseVoiceSmall 语音模型，每千字符（UTF-8）计费为免费｜输入 UTF-8 字节 每千字符（UTF-8） 免费",
-   "first_seen": "2026-11-04T12:00:57Z",
-   "last_seen": "2026-11-04T12:00:57Z",
+   "last_seen": "2026-11-19T00:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -6292,7 +5863,7 @@
    "first_seen": "2026-11-18T12:00:57Z",
    "last_seen": "2026-11-18T12:00:57Z",
    "status": "live",
-   "is_new": true,
+   "is_new": false,
    "source_error": null
   },
   {
@@ -6304,58 +5875,6 @@
    "text": "FunAudioLLM SenseVoiceSmall 语音模型免费调用，按每千字符计费｜SenseVoiceSmall FunAudioLLM/SenseVoiceSmall\n输入 UTF-8 字节 每千字符（UTF-8） 免费",
    "first_seen": "2026-11-18T12:00:57Z",
    "last_seen": "2026-11-18T12:00:57Z",
-   "status": "live",
-   "is_new": true,
-   "source_error": null
-  },
-  {
-   "sid": "kaggle",
-   "provider": "Kaggle Notebooks",
-   "type": "gpu",
-   "region": "global",
-   "url": "https://www.kaggle.com/docs/efficient-gpu-usage",
-   "text": "每周免费GPU额度，每周重置，通常30小时，视需求与资源可能更高｜You can use up to a quota limit per week of GPU. The quota resets weekly and is 30 hours or sometimes higher depending on demand and resources",
-   "first_seen": "2026-11-04T00:00:57Z",
-   "last_seen": "2026-11-04T00:00:57Z",
-   "status": "live",
-   "is_new": false,
-   "source_error": null
-  },
-  {
-   "sid": "kaggle",
-   "provider": "Kaggle Notebooks",
-   "type": "gpu",
-   "region": "global",
-   "url": "https://www.kaggle.com/docs/efficient-gpu-usage",
-   "text": "每周免费GPU配额，每周重置，通常30小时，视需求和资源可能更高。｜You can use up to a quota limit per week of GPU. The quota resets weekly and is 30 hours or sometimes higher depending on demand and resources",
-   "first_seen": "2026-11-04T06:00:57Z",
-   "last_seen": "2026-11-04T06:00:57Z",
-   "status": "live",
-   "is_new": false,
-   "source_error": null
-  },
-  {
-   "sid": "kaggle",
-   "provider": "Kaggle Notebooks",
-   "type": "gpu",
-   "region": "global",
-   "url": "https://www.kaggle.com/docs/efficient-gpu-usage",
-   "text": "免费GPU计算，每周配额30小时或更高，按需浮动｜You can use up to a quota limit per week of GPU. The quota resets weekly and is 30 hours or sometimes higher depending on demand and resources",
-   "first_seen": "2026-11-04T12:00:57Z",
-   "last_seen": "2026-11-04T12:00:57Z",
-   "status": "live",
-   "is_new": false,
-   "source_error": null
-  },
-  {
-   "sid": "kaggle",
-   "provider": "Kaggle Notebooks",
-   "type": "gpu",
-   "region": "global",
-   "url": "https://www.kaggle.com/docs/efficient-gpu-usage",
-   "text": "免费提供每周约30小时GPU配额，每周重置，额度视需求与资源可能更高｜You can use up to a quota limit per week of GPU. The quota resets weekly and is 30 hours or sometimes higher depending on demand and resources",
-   "first_seen": "2026-11-04T18:00:57Z",
-   "last_seen": "2026-11-04T18:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -6371,7 +5890,7 @@
    "last_seen": "2026-11-05T00:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "kaggle",
@@ -6384,7 +5903,7 @@
    "last_seen": "2026-11-05T06:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "kaggle",
@@ -6397,7 +5916,7 @@
    "last_seen": "2026-11-05T12:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "kaggle",
@@ -6410,7 +5929,7 @@
    "last_seen": "2026-11-05T18:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "kaggle",
@@ -6423,7 +5942,7 @@
    "last_seen": "2026-11-06T00:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "kaggle",
@@ -6436,7 +5955,7 @@
    "last_seen": "2026-11-06T06:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "kaggle",
@@ -6449,7 +5968,7 @@
    "last_seen": "2026-11-06T12:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "kaggle",
@@ -6462,7 +5981,7 @@
    "last_seen": "2026-11-06T18:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "kaggle",
@@ -6475,7 +5994,7 @@
    "last_seen": "2026-11-07T00:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "kaggle",
@@ -6488,7 +6007,7 @@
    "last_seen": "2026-11-07T06:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "kaggle",
@@ -6501,7 +6020,7 @@
    "last_seen": "2026-11-07T12:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "kaggle",
@@ -6514,7 +6033,7 @@
    "last_seen": "2026-11-07T18:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "kaggle",
@@ -6527,7 +6046,7 @@
    "last_seen": "2026-11-08T00:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "kaggle",
@@ -6540,7 +6059,7 @@
    "last_seen": "2026-11-08T00:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "kaggle",
@@ -6553,7 +6072,7 @@
    "last_seen": "2026-11-08T06:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "kaggle",
@@ -6566,7 +6085,7 @@
    "last_seen": "2026-11-08T12:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "kaggle",
@@ -6579,7 +6098,7 @@
    "last_seen": "2026-11-08T18:00:58Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "kaggle",
@@ -6592,7 +6111,7 @@
    "last_seen": "2026-11-09T00:00:58Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "kaggle",
@@ -6605,7 +6124,7 @@
    "last_seen": "2026-11-09T06:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "kaggle",
@@ -6618,7 +6137,7 @@
    "last_seen": "2026-11-09T12:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "kaggle",
@@ -6631,7 +6150,7 @@
    "last_seen": "2026-11-09T18:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "kaggle",
@@ -6644,7 +6163,7 @@
    "last_seen": "2026-11-10T00:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "kaggle",
@@ -6657,7 +6176,7 @@
    "last_seen": "2026-11-10T12:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "kaggle",
@@ -6670,7 +6189,7 @@
    "last_seen": "2026-11-10T18:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "kaggle",
@@ -6683,7 +6202,7 @@
    "last_seen": "2026-11-11T00:00:58Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "kaggle",
@@ -6696,7 +6215,7 @@
    "last_seen": "2026-11-11T06:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "kaggle",
@@ -6709,7 +6228,7 @@
    "last_seen": "2026-11-11T12:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "kaggle",
@@ -6722,7 +6241,7 @@
    "last_seen": "2026-11-12T06:00:58Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "kaggle",
@@ -6735,7 +6254,7 @@
    "last_seen": "2026-11-12T12:00:58Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "kaggle",
@@ -6748,7 +6267,7 @@
    "last_seen": "2026-11-12T18:00:58Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "kaggle",
@@ -6761,7 +6280,7 @@
    "last_seen": "2026-11-13T00:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "kaggle",
@@ -6774,7 +6293,7 @@
    "last_seen": "2026-11-13T06:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "kaggle",
@@ -6787,7 +6306,7 @@
    "last_seen": "2026-11-13T12:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "kaggle",
@@ -6800,7 +6319,7 @@
    "last_seen": "2026-11-14T00:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "kaggle",
@@ -6813,7 +6332,7 @@
    "last_seen": "2026-11-14T06:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "kaggle",
@@ -6826,7 +6345,7 @@
    "last_seen": "2026-11-14T12:00:58Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "kaggle",
@@ -6839,7 +6358,7 @@
    "last_seen": "2026-11-14T18:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "kaggle",
@@ -6852,7 +6371,7 @@
    "last_seen": "2026-11-15T00:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "kaggle",
@@ -6865,7 +6384,7 @@
    "last_seen": "2026-11-15T06:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "kaggle",
@@ -6878,7 +6397,7 @@
    "last_seen": "2026-11-15T12:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "kaggle",
@@ -6891,7 +6410,7 @@
    "last_seen": "2026-11-15T18:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "kaggle",
@@ -6904,7 +6423,7 @@
    "last_seen": "2026-11-16T00:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "kaggle",
@@ -6917,7 +6436,7 @@
    "last_seen": "2026-11-16T06:00:58Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "kaggle",
@@ -6930,7 +6449,7 @@
    "last_seen": "2026-11-16T12:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "kaggle",
@@ -6943,7 +6462,7 @@
    "last_seen": "2026-11-16T18:00:58Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "kaggle",
@@ -6956,7 +6475,7 @@
    "last_seen": "2026-11-17T00:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "kaggle",
@@ -6969,7 +6488,7 @@
    "last_seen": "2026-11-17T06:00:58Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "kaggle",
@@ -6982,7 +6501,7 @@
    "last_seen": "2026-11-17T18:00:58Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "kaggle",
@@ -6994,8 +6513,8 @@
    "first_seen": "2026-11-18T00:00:57Z",
    "last_seen": "2026-11-18T00:00:57Z",
    "status": "live",
-   "is_new": true,
-   "source_error": null
+   "is_new": false,
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "kaggle",
@@ -7007,8 +6526,8 @@
    "first_seen": "2026-11-18T06:00:57Z",
    "last_seen": "2026-11-18T06:00:57Z",
    "status": "live",
-   "is_new": true,
-   "source_error": null
+   "is_new": false,
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "kaggle",
@@ -7020,8 +6539,8 @@
    "first_seen": "2026-11-18T12:00:57Z",
    "last_seen": "2026-11-18T12:00:57Z",
    "status": "live",
-   "is_new": true,
-   "source_error": null
+   "is_new": false,
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "kaggle",
@@ -7033,8 +6552,8 @@
    "first_seen": "2026-11-18T18:00:57Z",
    "last_seen": "2026-11-18T18:00:57Z",
    "status": "live",
-   "is_new": true,
-   "source_error": null
+   "is_new": false,
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "modal",
@@ -7055,113 +6574,9 @@
    "type": "gpu",
    "region": "global",
    "url": "https://modal.com/pricing",
-   "text": "Starter免费档：$0/月，含每月$30免费compute额度（GPU/CPU/内存），最多3席位，1TiB/月免费出网｜Starter has no monthly fee and includes $30 of compute (GPUs, CPUs, Memory) per month.",
-   "first_seen": "2026-11-04T06:00:57Z",
-   "last_seen": "2026-11-04T06:00:57Z",
-   "status": "live",
-   "is_new": false,
-   "source_error": null
-  },
-  {
-   "sid": "modal",
-   "provider": "Modal",
-   "type": "gpu",
-   "region": "global",
-   "url": "https://modal.com/pricing",
-   "text": "在读研究生、实验室及研究者可申请最高$10k免费compute额度｜Graduate students, labs, and researchers can get up to $10k free compute credits on Modal",
-   "first_seen": "2026-11-04T06:00:57Z",
-   "last_seen": "2026-11-04T06:00:57Z",
-   "status": "live",
-   "is_new": false,
-   "source_error": null
-  },
-  {
-   "sid": "modal",
-   "provider": "Modal",
-   "type": "gpu",
-   "region": "global",
-   "url": "https://modal.com/pricing",
-   "text": "早期创业公司可申请免费compute额度｜Early-stage startups can get free compute credits on Modal.",
-   "first_seen": "2026-11-04T06:00:57Z",
-   "last_seen": "2026-11-04T06:00:57Z",
-   "status": "live",
-   "is_new": false,
-   "source_error": null
-  },
-  {
-   "sid": "modal",
-   "provider": "Modal",
-   "type": "gpu",
-   "region": "global",
-   "url": "https://modal.com/pricing",
-   "text": "Starter 免费档：无月费，每月含 30 美元免费计算额度（GPU/CPU/内存）｜Starter has no monthly fee and includes $30 of compute (GPUs, CPUs, Memory) per month.",
-   "first_seen": "2026-11-04T12:00:57Z",
-   "last_seen": "2026-11-04T12:00:57Z",
-   "status": "live",
-   "is_new": false,
-   "source_error": null
-  },
-  {
-   "sid": "modal",
-   "provider": "Modal",
-   "type": "gpu",
-   "region": "global",
-   "url": "https://modal.com/pricing",
-   "text": "Starter 免费档每月含 1 TiB 免费网络出流量｜1 TiB / month free network egress",
-   "first_seen": "2026-11-04T12:00:57Z",
-   "last_seen": "2026-11-04T12:00:57Z",
-   "status": "live",
-   "is_new": false,
-   "source_error": null
-  },
-  {
-   "sid": "modal",
-   "provider": "Modal",
-   "type": "gpu",
-   "region": "global",
-   "url": "https://modal.com/pricing",
-   "text": "存储卷每月免费 1 TiB｜*includes 1 TiB / mo free",
-   "first_seen": "2026-11-04T12:00:57Z",
-   "last_seen": "2026-11-04T12:00:57Z",
-   "status": "live",
-   "is_new": false,
-   "source_error": null
-  },
-  {
-   "sid": "modal",
-   "provider": "Modal",
-   "type": "gpu",
-   "region": "global",
-   "url": "https://modal.com/pricing",
-   "text": "Starter 免费档：$0/月，每月含 $30 免费计算额度（GPU/CPU/内存），3 个席位，1 TiB/月免费出网｜Starter has no monthly fee and includes $30 of compute (GPUs, CPUs, Memory) per month.",
-   "first_seen": "2026-11-04T18:00:57Z",
-   "last_seen": "2026-11-04T18:00:57Z",
-   "status": "live",
-   "is_new": false,
-   "source_error": null
-  },
-  {
-   "sid": "modal",
-   "provider": "Modal",
-   "type": "gpu",
-   "region": "global",
-   "url": "https://modal.com/pricing",
    "text": "存储卷每月含 1 TiB 免费额度，超出按 $0.09/GiB/月计费｜*includes 1 TiB / mo free",
    "first_seen": "2026-11-04T18:00:57Z",
    "last_seen": "2026-11-13T06:00:57Z",
-   "status": "live",
-   "is_new": false,
-   "source_error": null
-  },
-  {
-   "sid": "modal",
-   "provider": "Modal",
-   "type": "gpu",
-   "region": "global",
-   "url": "https://modal.com/pricing",
-   "text": "早期初创公司可申请 Modal 免费计算额度（Startup Credits）｜Early-stage startups can get free compute credits on Modal.",
-   "first_seen": "2026-11-04T18:00:57Z",
-   "last_seen": "2026-11-04T18:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -8320,7 +7735,7 @@
    "first_seen": "2026-11-18T00:00:57Z",
    "last_seen": "2026-11-18T00:00:57Z",
    "status": "live",
-   "is_new": true,
+   "is_new": false,
    "source_error": null
   },
   {
@@ -8333,7 +7748,7 @@
    "first_seen": "2026-11-18T00:00:57Z",
    "last_seen": "2026-11-18T00:00:57Z",
    "status": "live",
-   "is_new": true,
+   "is_new": false,
    "source_error": null
   },
   {
@@ -8346,7 +7761,7 @@
    "first_seen": "2026-11-18T00:00:57Z",
    "last_seen": "2026-11-18T00:00:57Z",
    "status": "live",
-   "is_new": true,
+   "is_new": false,
    "source_error": null
   },
   {
@@ -8359,7 +7774,7 @@
    "first_seen": "2026-11-18T06:00:57Z",
    "last_seen": "2026-11-18T06:00:57Z",
    "status": "live",
-   "is_new": true,
+   "is_new": false,
    "source_error": null
   },
   {
@@ -8372,7 +7787,7 @@
    "first_seen": "2026-11-18T06:00:57Z",
    "last_seen": "2026-11-18T06:00:57Z",
    "status": "live",
-   "is_new": true,
+   "is_new": false,
    "source_error": null
   },
   {
@@ -8385,7 +7800,7 @@
    "first_seen": "2026-11-18T12:00:57Z",
    "last_seen": "2026-11-18T12:00:57Z",
    "status": "live",
-   "is_new": true,
+   "is_new": false,
    "source_error": null
   },
   {
@@ -8398,7 +7813,7 @@
    "first_seen": "2026-11-18T12:00:57Z",
    "last_seen": "2026-11-18T12:00:57Z",
    "status": "live",
-   "is_new": true,
+   "is_new": false,
    "source_error": null
   },
   {
@@ -8411,7 +7826,7 @@
    "first_seen": "2026-11-18T12:00:57Z",
    "last_seen": "2026-11-18T12:00:57Z",
    "status": "live",
-   "is_new": true,
+   "is_new": false,
    "source_error": null
   },
   {
@@ -8424,7 +7839,7 @@
    "first_seen": "2026-11-18T18:00:57Z",
    "last_seen": "2026-11-18T18:00:57Z",
    "status": "live",
-   "is_new": true,
+   "is_new": false,
    "source_error": null
   },
   {
@@ -8437,59 +7852,46 @@
    "first_seen": "2026-11-18T18:00:57Z",
    "last_seen": "2026-11-18T18:00:57Z",
    "status": "live",
+   "is_new": false,
+   "source_error": null
+  },
+  {
+   "sid": "modal",
+   "provider": "Modal",
+   "type": "gpu",
+   "region": "global",
+   "url": "https://modal.com/pricing",
+   "text": "Starter 免费档：$0/月，含每月 $30 免费计算额度（GPU/CPU/内存），3 个席位｜Starter has no monthly fee and includes $30 of compute (GPUs, CPUs, Memory) per month.",
+   "first_seen": "2026-11-19T00:00:57Z",
+   "last_seen": "2026-11-19T00:00:57Z",
+   "status": "live",
    "is_new": true,
    "source_error": null
   },
   {
-   "sid": "runpod",
-   "provider": "RunPod",
+   "sid": "modal",
+   "provider": "Modal",
    "type": "gpu",
    "region": "global",
-   "url": "https://www.runpod.io/pricing",
-   "text": "公共端点 resembleai/Chatterbox Turbo 语音模型免费，$0.00/千字符。｜resembleai / Chatterbox Turbo\n$0.00 per 1000 characters.",
-   "first_seen": "2026-11-04T00:00:57Z",
-   "last_seen": "2026-11-04T00:00:57Z",
+   "url": "https://modal.com/pricing",
+   "text": "Starter 免费档含每月 1 TiB 免费网络出口流量｜1 TiB / month free network egress",
+   "first_seen": "2026-11-19T00:00:57Z",
+   "last_seen": "2026-11-19T00:00:57Z",
    "status": "live",
-   "is_new": false,
-   "source_error": "ValueError: no candidate lines"
-  },
-  {
-   "sid": "runpod",
-   "provider": "RunPod",
-   "type": "gpu",
-   "region": "global",
-   "url": "https://www.runpod.io/pricing",
-   "text": "Chatterbox Turbo 公共端点 $0.00/千字符，可免费调用｜resembleai / Chatterbox Turbo\n$0.00 per 1000 characters.",
-   "first_seen": "2026-11-04T12:00:57Z",
-   "last_seen": "2026-11-04T12:00:57Z",
-   "status": "live",
-   "is_new": false,
-   "source_error": "ValueError: no candidate lines"
-  },
-  {
-   "sid": "cursor",
-   "provider": "Cursor",
-   "type": "harness",
-   "region": "global",
-   "url": "https://cursor.com/pricing",
-   "text": "提供 $0/月永久免费档：智能体可无限使用，聊天、图像生成、Grok 构建的用量有限，但没有试用金或付费额度。｜功能 免费 $0 /月",
-   "first_seen": "2026-11-04T06:00:57Z",
-   "last_seen": "2026-11-04T06:00:57Z",
-   "status": "live",
-   "is_new": false,
+   "is_new": true,
    "source_error": null
   },
   {
-   "sid": "cursor",
-   "provider": "Cursor",
-   "type": "harness",
+   "sid": "modal",
+   "provider": "Modal",
+   "type": "gpu",
    "region": "global",
-   "url": "https://cursor.com/pricing",
-   "text": "免费档 $0/月：智能体可无限使用，聊天、图像生成（Imagine）、Grok 构建等用量有限｜功能 免费 $0 /月",
-   "first_seen": "2026-11-04T18:00:57Z",
-   "last_seen": "2026-11-04T18:00:57Z",
+   "url": "https://modal.com/pricing",
+   "text": "存储卷每月免费 1 TiB 额度｜Volumes include up to 1 TiB free.",
+   "first_seen": "2026-11-19T00:00:57Z",
+   "last_seen": "2026-11-19T00:00:57Z",
    "status": "live",
-   "is_new": false,
+   "is_new": true,
    "source_error": null
   },
   {
@@ -8853,7 +8255,7 @@
    "first_seen": "2026-11-18T06:00:57Z",
    "last_seen": "2026-11-18T06:00:57Z",
    "status": "live",
-   "is_new": true,
+   "is_new": false,
    "source_error": null
   },
   {
@@ -8866,7 +8268,7 @@
    "first_seen": "2026-11-18T06:00:57Z",
    "last_seen": "2026-11-18T06:00:57Z",
    "status": "live",
-   "is_new": true,
+   "is_new": false,
    "source_error": null
   },
   {
@@ -8877,7 +8279,7 @@
    "url": "https://github.com/google-gemini/gemini-cli",
    "text": "No free tier or Google AI plans: Free individual access and Google AI Pro / Ultra (Google One) moved to Antigravity CLI on June 18, 2026 ( transition post ).",
    "first_seen": "2026-11-03T17:34:19Z",
-   "last_seen": "2026-11-18T18:00:57Z",
+   "last_seen": "2026-11-19T00:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -8914,48 +8316,9 @@
    "type": "harness",
    "region": "global",
    "url": "https://windsurf.com/pricing",
-   "text": "永久免费档 $0/月：含轻量 agent 编码额度、有限模型、无限 inline edits 与 Tab 补全。｜The Free plan includes a light quota to code with agents, limited model availability, unlimited inline edits, and unlimited Tab completions.",
-   "first_seen": "2026-11-04T00:00:57Z",
-   "last_seen": "2026-11-04T00:00:57Z",
-   "status": "live",
-   "is_new": false,
-   "source_error": null
-  },
-  {
-   "sid": "windsurf",
-   "provider": "Windsurf",
-   "type": "harness",
-   "region": "global",
-   "url": "https://windsurf.com/pricing",
-   "text": "Free计划$0/月：轻量agent编码额度、有限模型、无限inline edits和Tab补全｜The Free plan includes a light quota to code with agents, limited model availability, unlimited inline edits, and unlimited Tab completions.",
-   "first_seen": "2026-11-04T06:00:57Z",
-   "last_seen": "2026-11-04T06:00:57Z",
-   "status": "live",
-   "is_new": false,
-   "source_error": null
-  },
-  {
-   "sid": "windsurf",
-   "provider": "Windsurf",
-   "type": "harness",
-   "region": "global",
-   "url": "https://windsurf.com/pricing",
    "text": "永久免费档：$0/月，含轻量 agent 编码额度、有限模型、无限 inline edits 和 Tab 补全。｜The Free plan includes a light quota to code with agents, limited model availability, unlimited inline edits, and unlimited Tab completions.",
    "first_seen": "2026-11-04T12:00:57Z",
    "last_seen": "2026-11-12T00:00:57Z",
-   "status": "live",
-   "is_new": false,
-   "source_error": null
-  },
-  {
-   "sid": "windsurf",
-   "provider": "Windsurf",
-   "type": "harness",
-   "region": "global",
-   "url": "https://windsurf.com/pricing",
-   "text": "免费档 $0/月：含轻量 agent 配额、有限模型、无限 inline edits 和 Tab 补全｜The Free plan includes a light quota to code with agents, limited model availability, unlimited inline edits, and unlimited Tab completions.",
-   "first_seen": "2026-11-04T18:00:57Z",
-   "last_seen": "2026-11-04T18:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -9542,7 +8905,7 @@
    "first_seen": "2026-11-18T00:00:57Z",
    "last_seen": "2026-11-18T00:00:57Z",
    "status": "live",
-   "is_new": true,
+   "is_new": false,
    "source_error": null
   },
   {
@@ -9555,7 +8918,7 @@
    "first_seen": "2026-11-18T06:00:57Z",
    "last_seen": "2026-11-18T06:00:57Z",
    "status": "live",
-   "is_new": true,
+   "is_new": false,
    "source_error": null
   },
   {
@@ -9568,6 +8931,19 @@
    "first_seen": "2026-11-18T12:00:57Z",
    "last_seen": "2026-11-18T12:00:57Z",
    "status": "live",
+   "is_new": false,
+   "source_error": null
+  },
+  {
+   "sid": "windsurf",
+   "provider": "Windsurf",
+   "type": "harness",
+   "region": "global",
+   "url": "https://windsurf.com/pricing",
+   "text": "永久免费档：提供轻量 agent 编码额度，模型选择有限，inline edits 和 Tab 补全不限量｜The Free plan includes a light quota to code with agents, limited model availability, unlimited inline edits, and unlimited Tab completions.",
+   "first_seen": "2026-11-19T00:00:57Z",
+   "last_seen": "2026-11-19T00:00:57Z",
+   "status": "live",
    "is_new": true,
    "source_error": null
   },
@@ -9579,7 +8955,7 @@
    "url": "https://aws.amazon.com/activate/",
    "text": "免费获取使用 AWS 产品和服务的实践经验",
    "first_seen": "2026-11-03T17:34:19Z",
-   "last_seen": "2026-11-18T18:00:57Z",
+   "last_seen": "2026-11-19T00:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -9592,7 +8968,7 @@
    "url": "https://azure.microsoft.com/en-us/free/students/",
    "text": "$1,000 in Azure credits instantly—no application required",
    "first_seen": "2026-11-03T17:34:19Z",
-   "last_seen": "2026-11-18T18:00:57Z",
+   "last_seen": "2026-11-19T00:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -9605,7 +8981,7 @@
    "url": "https://azure.microsoft.com/en-us/free/students/",
    "text": "Unlock up to $5,000 in total credits with business verification",
    "first_seen": "2026-11-03T17:34:19Z",
-   "last_seen": "2026-11-18T18:00:57Z",
+   "last_seen": "2026-11-19T00:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -9618,7 +8994,7 @@
    "url": "https://azure.microsoft.com/en-us/free/students/",
    "text": "Credits valid for 90 days (initial) and 180 days (post-verification)",
    "first_seen": "2026-11-03T17:34:19Z",
-   "last_seen": "2026-11-18T18:00:57Z",
+   "last_seen": "2026-11-19T00:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -9696,7 +9072,7 @@
    "url": "https://education.github.com/pack",
    "text": "$50 in MongoDB Atlas Credits, plus access to MongoDB Compass and MongoDB University including free certification valued at $150.",
    "first_seen": "2026-11-03T17:34:19Z",
-   "last_seen": "2026-11-18T18:00:57Z",
+   "last_seen": "2026-11-19T00:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -9709,7 +9085,7 @@
    "url": "https://education.github.com/pack",
    "text": "Get $25 in Stripe credits to offset fees on products including Stripe Payments, Billing, and more.",
    "first_seen": "2026-11-03T17:34:19Z",
-   "last_seen": "2026-11-18T18:00:57Z",
+   "last_seen": "2026-11-19T00:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -9722,7 +9098,7 @@
    "url": "https://education.github.com/pack",
    "text": "Free 6-month trial while you are a student.",
    "first_seen": "2026-11-03T17:34:19Z",
-   "last_seen": "2026-11-18T18:00:57Z",
+   "last_seen": "2026-11-19T00:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -9735,7 +9111,7 @@
    "url": "https://cloud.google.com/startup",
    "text": "获享 $300 赠金以及 20 多种提供“始终免费”用量的产品。",
    "first_seen": "2026-11-03T17:34:19Z",
-   "last_seen": "2026-11-18T18:00:57Z",
+   "last_seen": "2026-11-19T00:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -9748,7 +9124,7 @@
    "url": "https://cloud.google.com/startup",
    "text": "AI 赋能的云原生数据迁移服务，可免费使用。",
    "first_seen": "2026-11-03T17:34:19Z",
-   "last_seen": "2026-11-18T18:00:57Z",
+   "last_seen": "2026-11-19T00:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -9760,7 +9136,7 @@
    "name": "DeepSeek 开放平台",
    "type": "api",
    "region": "cn",
-   "last_ok": "2026-11-18T18:00:57Z",
+   "last_ok": "2026-11-19T00:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9769,7 +9145,7 @@
    "name": "硅基流动 SiliconFlow",
    "type": "api",
    "region": "cn",
-   "last_ok": "2026-11-18T18:00:57Z",
+   "last_ok": "2026-11-19T00:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9778,7 +9154,7 @@
    "name": "智谱 BigModel",
    "type": "api",
    "region": "cn",
-   "last_ok": "2026-11-18T18:00:57Z",
+   "last_ok": "2026-11-19T00:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9787,7 +9163,7 @@
    "name": "阿里云百炼",
    "type": "api",
    "region": "cn",
-   "last_ok": "2026-11-18T18:00:57Z",
+   "last_ok": "2026-11-19T00:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9797,8 +9173,8 @@
    "type": "api",
    "region": "cn",
    "last_ok": "2026-11-18T18:00:57Z",
-   "last_error": null,
-   "fail_count": 0
+   "last_error": "TimeoutError: The read operation timed out",
+   "fail_count": 1
   },
   {
    "sid": "openrouter",
@@ -9807,7 +9183,7 @@
    "region": "global",
    "last_ok": "2026-11-13T12:00:57Z",
    "last_error": "ValueError: no candidate lines",
-   "fail_count": 21
+   "fail_count": 22
   },
   {
    "sid": "groq",
@@ -9816,14 +9192,14 @@
    "region": "global",
    "last_ok": null,
    "last_error": "ValueError: no candidate lines",
-   "fail_count": 63
+   "fail_count": 64
   },
   {
    "sid": "cerebras",
    "name": "Cerebras",
    "type": "api",
    "region": "global",
-   "last_ok": "2026-11-18T18:00:57Z",
+   "last_ok": "2026-11-19T00:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9832,7 +9208,7 @@
    "name": "Together AI",
    "type": "api",
    "region": "global",
-   "last_ok": "2026-11-18T18:00:57Z",
+   "last_ok": "2026-11-19T00:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9841,7 +9217,7 @@
    "name": "Google Gemini API",
    "type": "api",
    "region": "global",
-   "last_ok": "2026-11-18T18:00:57Z",
+   "last_ok": "2026-11-19T00:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9850,7 +9226,7 @@
    "name": "Mistral AI",
    "type": "api",
    "region": "global",
-   "last_ok": "2026-11-18T18:00:57Z",
+   "last_ok": "2026-11-19T00:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9859,7 +9235,7 @@
    "name": "Cloudflare Workers AI",
    "type": "api",
    "region": "global",
-   "last_ok": "2026-11-18T18:00:57Z",
+   "last_ok": "2026-11-19T00:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9868,7 +9244,7 @@
    "name": "NVIDIA NIM",
    "type": "api",
    "region": "global",
-   "last_ok": "2026-11-18T18:00:57Z",
+   "last_ok": "2026-11-19T00:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9877,7 +9253,7 @@
    "name": "Cursor",
    "type": "harness",
    "region": "global",
-   "last_ok": "2026-11-18T18:00:57Z",
+   "last_ok": "2026-11-19T00:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9886,7 +9262,7 @@
    "name": "Windsurf",
    "type": "harness",
    "region": "global",
-   "last_ok": "2026-11-18T18:00:57Z",
+   "last_ok": "2026-11-19T00:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9895,7 +9271,7 @@
    "name": "Gemini CLI",
    "type": "harness",
    "region": "global",
-   "last_ok": "2026-11-18T18:00:57Z",
+   "last_ok": "2026-11-19T00:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9904,16 +9280,16 @@
    "name": "Qwen Code",
    "type": "harness",
    "region": "cn",
-   "last_ok": "2026-11-18T12:00:57Z",
-   "last_error": "IncompleteRead: IncompleteRead(330696 bytes read)",
-   "fail_count": 1
+   "last_ok": "2026-11-19T00:00:57Z",
+   "last_error": null,
+   "fail_count": 0
   },
   {
    "sid": "openhands",
    "name": "OpenHands",
    "type": "agent",
    "region": "global",
-   "last_ok": "2026-11-18T18:00:57Z",
+   "last_ok": "2026-11-19T00:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9924,14 +9300,14 @@
    "region": "global",
    "last_ok": "2026-11-15T12:00:57Z",
    "last_error": "ValueError: no candidate lines",
-   "fail_count": 13
+   "fail_count": 14
   },
   {
    "sid": "dify",
    "name": "Dify",
    "type": "agent",
    "region": "global",
-   "last_ok": "2026-11-18T18:00:57Z",
+   "last_ok": "2026-11-19T00:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9940,7 +9316,7 @@
    "name": "Modal",
    "type": "gpu",
    "region": "global",
-   "last_ok": "2026-11-18T18:00:57Z",
+   "last_ok": "2026-11-19T00:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9951,7 +9327,7 @@
    "region": "global",
    "last_ok": "2026-11-04T12:00:57Z",
    "last_error": "ValueError: no candidate lines",
-   "fail_count": 57
+   "fail_count": 58
   },
   {
    "sid": "vast",
@@ -9960,7 +9336,7 @@
    "region": "global",
    "last_ok": null,
    "last_error": "ValueError: no candidate lines",
-   "fail_count": 63
+   "fail_count": 64
   },
   {
    "sid": "lambda",
@@ -9969,7 +9345,7 @@
    "region": "global",
    "last_ok": null,
    "last_error": "ValueError: no candidate lines",
-   "fail_count": 63
+   "fail_count": 64
   },
   {
    "sid": "colab",
@@ -9978,7 +9354,7 @@
    "region": "global",
    "last_ok": null,
    "last_error": "ValueError: no candidate lines",
-   "fail_count": 63
+   "fail_count": 64
   },
   {
    "sid": "kaggle",
@@ -9986,15 +9362,15 @@
    "type": "gpu",
    "region": "global",
    "last_ok": "2026-11-18T18:00:57Z",
-   "last_error": null,
-   "fail_count": 0
+   "last_error": "ValueError: no candidate lines",
+   "fail_count": 1
   },
   {
    "sid": "github-student",
    "name": "GitHub Student Pack",
    "type": "student",
    "region": "global",
-   "last_ok": "2026-11-18T18:00:57Z",
+   "last_ok": "2026-11-19T00:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -10003,7 +9379,7 @@
    "name": "Google for Startups Cloud",
    "type": "student",
    "region": "global",
-   "last_ok": "2026-11-18T18:00:57Z",
+   "last_ok": "2026-11-19T00:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -10012,7 +9388,7 @@
    "name": "AWS Activate",
    "type": "student",
    "region": "global",
-   "last_ok": "2026-11-18T18:00:57Z",
+   "last_ok": "2026-11-19T00:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -10021,7 +9397,7 @@
    "name": "Azure for Students",
    "type": "student",
    "region": "global",
-   "last_ok": "2026-11-18T18:00:57Z",
+   "last_ok": "2026-11-19T00:00:57Z",
    "last_error": null,
    "fail_count": 0
   }
