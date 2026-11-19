@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T06:00:57Z",
+ "generated_at": "2026-11-19T12:00:57Z",
  "ok": 26,
  "fail": 4,
  "offers": [
@@ -381,6 +381,19 @@
    "source_error": null
   },
   {
+   "sid": "manus",
+   "provider": "Manus",
+   "type": "agent",
+   "region": "global",
+   "url": "https://manus.im/pricing",
+   "text": "永久免费档：每日300 credits，可用Manus 2.0 Lite，同时运行3个任务、2个自动化｜300 credits / day\nGet started with:\nResearch, websites and slides\nManus 2.0 Lite\n3 tasks at once · 2 automations",
+   "first_seen": "2026-11-19T12:00:57Z",
+   "last_seen": "2026-11-19T12:00:57Z",
+   "status": "live",
+   "is_new": true,
+   "source_error": null
+  },
+  {
    "sid": "openhands",
    "provider": "OpenHands",
    "type": "agent",
@@ -508,6 +521,19 @@
    "last_seen": "2026-11-18T18:00:57Z",
    "status": "live",
    "is_new": false,
+   "source_error": null
+  },
+  {
+   "sid": "openhands",
+   "provider": "OpenHands",
+   "type": "agent",
+   "region": "global",
+   "url": "https://www.all-hands.dev/",
+   "text": "OpenHands Teams 可免费试用30天，面向团队自助使用｜Try OpenHands Teams, free for 30 days →",
+   "first_seen": "2026-11-19T12:00:57Z",
+   "last_seen": "2026-11-19T12:00:57Z",
+   "status": "live",
+   "is_new": true,
    "source_error": null
   },
   {
@@ -1182,6 +1208,19 @@
    "text": "新开发者注册即赠 5 美元免费额度，用于按量付费试用｜Self-serve pay-as-you-go with free $5 credit to start ***",
    "first_seen": "2026-11-19T06:00:57Z",
    "last_seen": "2026-11-19T06:00:57Z",
+   "status": "live",
+   "is_new": true,
+   "source_error": null
+  },
+  {
+   "sid": "cerebras",
+   "provider": "Cerebras",
+   "type": "api",
+   "region": "global",
+   "url": "https://www.cerebras.ai/pricing",
+   "text": "开发者自助按量付费，新用户可获 5 美元免费起始额度｜Self-serve pay-as-you-go with free $5 credit to start ***",
+   "first_seen": "2026-11-19T12:00:57Z",
+   "last_seen": "2026-11-19T12:00:57Z",
    "status": "live",
    "is_new": true,
    "source_error": null
@@ -1941,6 +1980,19 @@
    "source_error": null
   },
   {
+   "sid": "cloudflare-ai",
+   "provider": "Cloudflare Workers AI",
+   "type": "api",
+   "region": "global",
+   "url": "https://developers.cloudflare.com/workers-ai/platform/pricing/",
+   "text": "Workers 免费计划每天可免费使用 10,000 Neurons，每日 UTC 00:00 重置；超出限制则报错。｜Workers Free\n10,000 Neurons per day\nN/A - Upgrade to Workers Paid",
+   "first_seen": "2026-11-19T12:00:57Z",
+   "last_seen": "2026-11-19T12:00:57Z",
+   "status": "live",
+   "is_new": true,
+   "source_error": null
+  },
+  {
    "sid": "google-ai",
    "provider": "Google Gemini API",
    "type": "api",
@@ -1951,7 +2003,7 @@
    "last_seen": "2026-11-12T12:00:58Z",
    "status": "live",
    "is_new": false,
-   "source_error": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
+   "source_error": null
   },
   {
    "sid": "google-ai",
@@ -1964,7 +2016,7 @@
    "last_seen": "2026-11-12T12:00:58Z",
    "status": "live",
    "is_new": false,
-   "source_error": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
+   "source_error": null
   },
   {
    "sid": "google-ai",
@@ -1977,7 +2029,7 @@
    "last_seen": "2026-11-12T12:00:58Z",
    "status": "live",
    "is_new": false,
-   "source_error": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
+   "source_error": null
   },
   {
    "sid": "google-ai",
@@ -1987,10 +2039,10 @@
    "url": "https://ai.google.dev/gemini-api/docs/pricing",
    "text": "Input price | Free of charge | $1.50",
    "first_seen": "2026-11-12T18:00:58Z",
-   "last_seen": "2026-11-19T00:00:57Z",
+   "last_seen": "2026-11-19T12:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
+   "source_error": null
   },
   {
    "sid": "google-ai",
@@ -2000,10 +2052,10 @@
    "url": "https://ai.google.dev/gemini-api/docs/pricing",
    "text": "Output price (including thinking tokens) | Free of charge | $7.50",
    "first_seen": "2026-11-12T18:00:58Z",
-   "last_seen": "2026-11-19T00:00:57Z",
+   "last_seen": "2026-11-19T12:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
+   "source_error": null
   },
   {
    "sid": "google-ai",
@@ -2013,10 +2065,10 @@
    "url": "https://ai.google.dev/gemini-api/docs/pricing",
    "text": "Context caching price | Free of charge | $0.075 Implicit caching only (explicit caching is not supported).",
    "first_seen": "2026-11-12T18:00:58Z",
-   "last_seen": "2026-11-19T00:00:57Z",
+   "last_seen": "2026-11-19T12:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
+   "source_error": null
   },
   {
    "sid": "mistral",
@@ -2507,7 +2559,7 @@
    "url": "https://build.nvidia.com/",
    "text": "免费层按速率限制运行，多数模型最高40 RPM，无按token计费。｜The free tier runs on rate limits - up to 40 requests per minute (RPM) for most models, with no per-token billing.",
    "first_seen": "2026-11-06T12:00:57Z",
-   "last_seen": "2026-11-06T12:00:57Z",
+   "last_seen": "2026-11-19T12:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -2939,6 +2991,19 @@
    "last_seen": "2026-11-18T18:00:57Z",
    "status": "live",
    "is_new": false,
+   "source_error": null
+  },
+  {
+   "sid": "nvidia-nim",
+   "provider": "NVIDIA NIM",
+   "type": "api",
+   "region": "global",
+   "url": "https://build.nvidia.com/",
+   "text": "所有模型可免费用于原型开发，超出速率限制需改用合作伙伴端点或本地部署。｜All models on [build.nvidia.com](https://build.nvidia.com/) are free to prototype with. Once you hit rate limits, see the Deploy section to use partner endpoints or deploy a NIM locally.",
+   "first_seen": "2026-11-19T12:00:57Z",
+   "last_seen": "2026-11-19T12:00:57Z",
+   "status": "live",
+   "is_new": true,
    "source_error": null
   },
   {
@@ -3865,6 +3930,19 @@
    "source_error": null
   },
   {
+   "sid": "together",
+   "provider": "Together AI",
+   "type": "api",
+   "region": "global",
+   "url": "https://www.together.ai/pricing",
+   "text": "Ternary Bonsai 27B 模型在 Together AI 上输入与输出均免费｜Ternary Bonsai 27B](https://www.together.ai/models/prism-ml-ternary-bonsai-27b) | Free | Free",
+   "first_seen": "2026-11-19T12:00:57Z",
+   "last_seen": "2026-11-19T12:00:57Z",
+   "status": "live",
+   "is_new": true,
+   "source_error": null
+  },
+  {
    "sid": "bigmodel",
    "provider": "智谱 BigModel",
    "type": "api",
@@ -3885,7 +3963,7 @@
    "url": "https://open.bigmodel.cn/pricing",
    "text": "以上均为API按量计费价格，缓存存储限时免费。",
    "first_seen": "2026-11-05T00:00:57Z",
-   "last_seen": "2026-11-17T18:00:58Z",
+   "last_seen": "2026-11-19T12:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -3898,7 +3976,7 @@
    "url": "https://open.bigmodel.cn/pricing",
    "text": "* 缓存存储：将上下文缓存起来，按“元/百万tokens/小时”计费，目前多数模型为限时免费。",
    "first_seen": "2026-11-05T00:00:57Z",
-   "last_seen": "2026-11-17T18:00:58Z",
+   "last_seen": "2026-11-19T12:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -5477,6 +5555,32 @@
    "source_error": null
   },
   {
+   "sid": "volcengine",
+   "provider": "火山方舟",
+   "type": "api",
+   "region": "cn",
+   "url": "https://www.volcengine.com/docs/82379/1099320",
+   "text": "Managed Agents 首次开通赠送免费额度：30 小时 Agent 运行时 + 500 次 web_search 调用；每账号限一次，有效期 2 年｜Managed Agents 首次开通即赠送免费额度包: 30 小时 Agent 运行时 + 500 次 web_search 调用 。",
+   "first_seen": "2026-11-19T12:00:57Z",
+   "last_seen": "2026-11-19T12:00:57Z",
+   "status": "live",
+   "is_new": true,
+   "source_error": null
+  },
+  {
+   "sid": "volcengine",
+   "provider": "火山方舟",
+   "type": "api",
+   "region": "cn",
+   "url": "https://www.volcengine.com/docs/82379/1099320",
+   "text": "联网内容插件实时搜索公开域内容，每月赠送 20K 次免费调用额度｜实时搜索互联网公开域内容，每月提供 20K 次免费额度。",
+   "first_seen": "2026-11-19T12:00:57Z",
+   "last_seen": "2026-11-19T12:00:57Z",
+   "status": "live",
+   "is_new": true,
+   "source_error": null
+  },
+  {
    "sid": "siliconflow",
    "provider": "硅基流动 SiliconFlow",
    "type": "api",
@@ -5484,7 +5588,7 @@
    "url": "https://siliconflow.cn/pricing",
    "text": "输入 UTF-8 字节 每千字符（UTF-8） 免费",
    "first_seen": "2026-11-03T17:34:19Z",
-   "last_seen": "2026-11-19T06:00:57Z",
+   "last_seen": "2026-11-19T12:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -5994,7 +6098,7 @@
    "last_seen": "2026-11-05T00:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "kaggle",
@@ -6007,7 +6111,7 @@
    "last_seen": "2026-11-05T06:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "kaggle",
@@ -6020,7 +6124,7 @@
    "last_seen": "2026-11-05T12:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "kaggle",
@@ -6033,7 +6137,7 @@
    "last_seen": "2026-11-05T18:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "kaggle",
@@ -6046,7 +6150,7 @@
    "last_seen": "2026-11-06T00:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "kaggle",
@@ -6059,7 +6163,7 @@
    "last_seen": "2026-11-06T06:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "kaggle",
@@ -6072,7 +6176,7 @@
    "last_seen": "2026-11-06T12:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "kaggle",
@@ -6085,7 +6189,7 @@
    "last_seen": "2026-11-06T18:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "kaggle",
@@ -6098,7 +6202,7 @@
    "last_seen": "2026-11-07T00:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "kaggle",
@@ -6111,7 +6215,7 @@
    "last_seen": "2026-11-07T06:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "kaggle",
@@ -6124,7 +6228,7 @@
    "last_seen": "2026-11-07T12:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "kaggle",
@@ -6137,7 +6241,7 @@
    "last_seen": "2026-11-07T18:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "kaggle",
@@ -6150,7 +6254,7 @@
    "last_seen": "2026-11-08T00:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "kaggle",
@@ -6163,7 +6267,7 @@
    "last_seen": "2026-11-08T00:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "kaggle",
@@ -6176,7 +6280,7 @@
    "last_seen": "2026-11-08T06:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "kaggle",
@@ -6189,7 +6293,7 @@
    "last_seen": "2026-11-08T12:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "kaggle",
@@ -6202,7 +6306,7 @@
    "last_seen": "2026-11-08T18:00:58Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "kaggle",
@@ -6215,7 +6319,7 @@
    "last_seen": "2026-11-09T00:00:58Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "kaggle",
@@ -6228,7 +6332,7 @@
    "last_seen": "2026-11-09T06:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "kaggle",
@@ -6241,7 +6345,7 @@
    "last_seen": "2026-11-09T12:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "kaggle",
@@ -6254,7 +6358,7 @@
    "last_seen": "2026-11-09T18:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "kaggle",
@@ -6267,7 +6371,7 @@
    "last_seen": "2026-11-10T00:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "kaggle",
@@ -6280,7 +6384,7 @@
    "last_seen": "2026-11-10T12:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "kaggle",
@@ -6293,7 +6397,7 @@
    "last_seen": "2026-11-10T18:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "kaggle",
@@ -6306,7 +6410,7 @@
    "last_seen": "2026-11-11T00:00:58Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "kaggle",
@@ -6319,7 +6423,7 @@
    "last_seen": "2026-11-11T06:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "kaggle",
@@ -6332,7 +6436,7 @@
    "last_seen": "2026-11-11T12:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "kaggle",
@@ -6345,7 +6449,7 @@
    "last_seen": "2026-11-12T06:00:58Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "kaggle",
@@ -6358,7 +6462,7 @@
    "last_seen": "2026-11-12T12:00:58Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "kaggle",
@@ -6371,7 +6475,7 @@
    "last_seen": "2026-11-12T18:00:58Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "kaggle",
@@ -6384,7 +6488,7 @@
    "last_seen": "2026-11-13T00:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "kaggle",
@@ -6397,7 +6501,7 @@
    "last_seen": "2026-11-13T06:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "kaggle",
@@ -6410,7 +6514,7 @@
    "last_seen": "2026-11-13T12:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "kaggle",
@@ -6423,7 +6527,7 @@
    "last_seen": "2026-11-14T00:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "kaggle",
@@ -6436,7 +6540,7 @@
    "last_seen": "2026-11-14T06:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "kaggle",
@@ -6449,7 +6553,7 @@
    "last_seen": "2026-11-14T12:00:58Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "kaggle",
@@ -6462,7 +6566,7 @@
    "last_seen": "2026-11-14T18:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "kaggle",
@@ -6475,7 +6579,7 @@
    "last_seen": "2026-11-15T00:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "kaggle",
@@ -6488,7 +6592,7 @@
    "last_seen": "2026-11-15T06:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "kaggle",
@@ -6501,7 +6605,7 @@
    "last_seen": "2026-11-15T12:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "kaggle",
@@ -6514,7 +6618,7 @@
    "last_seen": "2026-11-15T18:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "kaggle",
@@ -6527,7 +6631,7 @@
    "last_seen": "2026-11-16T00:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "kaggle",
@@ -6540,7 +6644,7 @@
    "last_seen": "2026-11-16T06:00:58Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "kaggle",
@@ -6553,7 +6657,7 @@
    "last_seen": "2026-11-16T12:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "kaggle",
@@ -6566,7 +6670,7 @@
    "last_seen": "2026-11-16T18:00:58Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "kaggle",
@@ -6579,7 +6683,7 @@
    "last_seen": "2026-11-17T00:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "kaggle",
@@ -6592,7 +6696,7 @@
    "last_seen": "2026-11-17T06:00:58Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "kaggle",
@@ -6605,7 +6709,7 @@
    "last_seen": "2026-11-17T18:00:58Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "kaggle",
@@ -6618,7 +6722,7 @@
    "last_seen": "2026-11-18T00:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "kaggle",
@@ -6631,7 +6735,7 @@
    "last_seen": "2026-11-18T06:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "kaggle",
@@ -6644,7 +6748,7 @@
    "last_seen": "2026-11-18T12:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "kaggle",
@@ -6657,7 +6761,7 @@
    "last_seen": "2026-11-18T18:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "kaggle",
@@ -6670,7 +6774,7 @@
    "last_seen": "2026-11-19T06:00:57Z",
    "status": "live",
    "is_new": true,
-   "source_error": null
+   "source_error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "sid": "modal",
@@ -7356,7 +7460,7 @@
    "url": "https://modal.com/pricing",
    "text": "Volumes 存储每月前 1 TiB 免费｜*includes 1 TiB / mo free",
    "first_seen": "2026-11-13T18:00:57Z",
-   "last_seen": "2026-11-13T18:00:57Z",
+   "last_seen": "2026-11-19T12:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -8012,6 +8116,32 @@
    "source_error": null
   },
   {
+   "sid": "modal",
+   "provider": "Modal",
+   "type": "gpu",
+   "region": "global",
+   "url": "https://modal.com/pricing",
+   "text": "Starter 免费档：$0/月，含每月 $30 免费计算额度（GPU/CPU/内存）与 1 TiB 免费出网｜Starter has no monthly fee and includes $30 of compute (GPUs, CPUs, Memory) per month.",
+   "first_seen": "2026-11-19T12:00:57Z",
+   "last_seen": "2026-11-19T12:00:57Z",
+   "status": "live",
+   "is_new": true,
+   "source_error": null
+  },
+  {
+   "sid": "modal",
+   "provider": "Modal",
+   "type": "gpu",
+   "region": "global",
+   "url": "https://modal.com/pricing",
+   "text": "早期初创公司可申请免费计算额度｜Early-stage startups can get free compute credits on Modal.",
+   "first_seen": "2026-11-19T12:00:57Z",
+   "last_seen": "2026-11-19T12:00:57Z",
+   "status": "live",
+   "is_new": true,
+   "source_error": null
+  },
+  {
    "sid": "cursor",
    "provider": "Cursor",
    "type": "harness",
@@ -8402,6 +8532,19 @@
    "source_error": null
   },
   {
+   "sid": "cursor",
+   "provider": "Cursor",
+   "type": "harness",
+   "region": "global",
+   "url": "https://cursor.com/pricing",
+   "text": "提供 $0/月 免费档：智能体可用，聊天、图像生成（Imagine）、Grok 构建的用量均为有限次数｜功能 免费 $0 /月",
+   "first_seen": "2026-11-19T12:00:57Z",
+   "last_seen": "2026-11-19T12:00:57Z",
+   "status": "live",
+   "is_new": true,
+   "source_error": null
+  },
+  {
    "sid": "gemini-cli",
    "provider": "Gemini CLI",
    "type": "harness",
@@ -8409,7 +8552,7 @@
    "url": "https://github.com/google-gemini/gemini-cli",
    "text": "No free tier or Google AI plans: Free individual access and Google AI Pro / Ultra (Google One) moved to Antigravity CLI on June 18, 2026 ( transition post ).",
    "first_seen": "2026-11-03T17:34:19Z",
-   "last_seen": "2026-11-19T06:00:57Z",
+   "last_seen": "2026-11-19T12:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -9091,6 +9234,19 @@
    "source_error": null
   },
   {
+   "sid": "windsurf",
+   "provider": "Windsurf",
+   "type": "harness",
+   "region": "global",
+   "url": "https://windsurf.com/pricing",
+   "text": "Free 档 $0/月：含轻量编码 agent 配额、有限模型、无限 inline edits 和 Tab 补全。｜The Free plan includes a light quota to code with agents, limited model availability, unlimited inline edits, and unlimited Tab completions.",
+   "first_seen": "2026-11-19T12:00:57Z",
+   "last_seen": "2026-11-19T12:00:57Z",
+   "status": "live",
+   "is_new": true,
+   "source_error": null
+  },
+  {
    "sid": "aws-activate",
    "provider": "AWS Activate",
    "type": "student",
@@ -9111,7 +9267,7 @@
    "url": "https://azure.microsoft.com/en-us/free/students/",
    "text": "$1,000 in Azure credits instantly—no application required",
    "first_seen": "2026-11-03T17:34:19Z",
-   "last_seen": "2026-11-19T06:00:57Z",
+   "last_seen": "2026-11-19T12:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -9124,7 +9280,7 @@
    "url": "https://azure.microsoft.com/en-us/free/students/",
    "text": "Unlock up to $5,000 in total credits with business verification",
    "first_seen": "2026-11-03T17:34:19Z",
-   "last_seen": "2026-11-19T06:00:57Z",
+   "last_seen": "2026-11-19T12:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -9137,7 +9293,7 @@
    "url": "https://azure.microsoft.com/en-us/free/students/",
    "text": "Credits valid for 90 days (initial) and 180 days (post-verification)",
    "first_seen": "2026-11-03T17:34:19Z",
-   "last_seen": "2026-11-19T06:00:57Z",
+   "last_seen": "2026-11-19T12:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -9215,7 +9371,7 @@
    "url": "https://education.github.com/pack",
    "text": "$50 in MongoDB Atlas Credits, plus access to MongoDB Compass and MongoDB University including free certification valued at $150.",
    "first_seen": "2026-11-03T17:34:19Z",
-   "last_seen": "2026-11-19T06:00:57Z",
+   "last_seen": "2026-11-19T12:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -9228,7 +9384,7 @@
    "url": "https://education.github.com/pack",
    "text": "Get $25 in Stripe credits to offset fees on products including Stripe Payments, Billing, and more.",
    "first_seen": "2026-11-03T17:34:19Z",
-   "last_seen": "2026-11-19T06:00:57Z",
+   "last_seen": "2026-11-19T12:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -9241,7 +9397,7 @@
    "url": "https://education.github.com/pack",
    "text": "Free 6-month trial while you are a student.",
    "first_seen": "2026-11-03T17:34:19Z",
-   "last_seen": "2026-11-19T06:00:57Z",
+   "last_seen": "2026-11-19T12:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -9254,7 +9410,7 @@
    "url": "https://cloud.google.com/startup",
    "text": "获享 $300 赠金以及 20 多种提供“始终免费”用量的产品。",
    "first_seen": "2026-11-03T17:34:19Z",
-   "last_seen": "2026-11-19T06:00:57Z",
+   "last_seen": "2026-11-19T12:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -9267,7 +9423,7 @@
    "url": "https://cloud.google.com/startup",
    "text": "AI 赋能的云原生数据迁移服务，可免费使用。",
    "first_seen": "2026-11-03T17:34:19Z",
-   "last_seen": "2026-11-19T06:00:57Z",
+   "last_seen": "2026-11-19T12:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -9279,7 +9435,7 @@
    "name": "DeepSeek 开放平台",
    "type": "api",
    "region": "cn",
-   "last_ok": "2026-11-19T06:00:57Z",
+   "last_ok": "2026-11-19T12:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9288,7 +9444,7 @@
    "name": "硅基流动 SiliconFlow",
    "type": "api",
    "region": "cn",
-   "last_ok": "2026-11-19T06:00:57Z",
+   "last_ok": "2026-11-19T12:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9297,7 +9453,7 @@
    "name": "智谱 BigModel",
    "type": "api",
    "region": "cn",
-   "last_ok": "2026-11-19T06:00:57Z",
+   "last_ok": "2026-11-19T12:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9306,7 +9462,7 @@
    "name": "阿里云百炼",
    "type": "api",
    "region": "cn",
-   "last_ok": "2026-11-19T06:00:57Z",
+   "last_ok": "2026-11-19T12:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9315,7 +9471,7 @@
    "name": "火山方舟",
    "type": "api",
    "region": "cn",
-   "last_ok": "2026-11-19T06:00:57Z",
+   "last_ok": "2026-11-19T12:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9326,7 +9482,7 @@
    "region": "global",
    "last_ok": "2026-11-13T12:00:57Z",
    "last_error": "ValueError: no candidate lines",
-   "fail_count": 23
+   "fail_count": 24
   },
   {
    "sid": "groq",
@@ -9335,14 +9491,14 @@
    "region": "global",
    "last_ok": null,
    "last_error": "ValueError: no candidate lines",
-   "fail_count": 65
+   "fail_count": 66
   },
   {
    "sid": "cerebras",
    "name": "Cerebras",
    "type": "api",
    "region": "global",
-   "last_ok": "2026-11-19T06:00:57Z",
+   "last_ok": "2026-11-19T12:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9351,7 +9507,7 @@
    "name": "Together AI",
    "type": "api",
    "region": "global",
-   "last_ok": "2026-11-19T06:00:57Z",
+   "last_ok": "2026-11-19T12:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9360,16 +9516,16 @@
    "name": "Google Gemini API",
    "type": "api",
    "region": "global",
-   "last_ok": "2026-11-19T00:00:57Z",
-   "last_error": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>",
-   "fail_count": 1
+   "last_ok": "2026-11-19T12:00:57Z",
+   "last_error": null,
+   "fail_count": 0
   },
   {
    "sid": "mistral",
    "name": "Mistral AI",
    "type": "api",
    "region": "global",
-   "last_ok": "2026-11-19T06:00:57Z",
+   "last_ok": "2026-11-19T12:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9378,7 +9534,7 @@
    "name": "Cloudflare Workers AI",
    "type": "api",
    "region": "global",
-   "last_ok": "2026-11-19T06:00:57Z",
+   "last_ok": "2026-11-19T12:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9387,7 +9543,7 @@
    "name": "NVIDIA NIM",
    "type": "api",
    "region": "global",
-   "last_ok": "2026-11-19T06:00:57Z",
+   "last_ok": "2026-11-19T12:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9396,7 +9552,7 @@
    "name": "Cursor",
    "type": "harness",
    "region": "global",
-   "last_ok": "2026-11-19T06:00:57Z",
+   "last_ok": "2026-11-19T12:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9405,7 +9561,7 @@
    "name": "Windsurf",
    "type": "harness",
    "region": "global",
-   "last_ok": "2026-11-19T06:00:57Z",
+   "last_ok": "2026-11-19T12:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9414,7 +9570,7 @@
    "name": "Gemini CLI",
    "type": "harness",
    "region": "global",
-   "last_ok": "2026-11-19T06:00:57Z",
+   "last_ok": "2026-11-19T12:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9423,7 +9579,7 @@
    "name": "Qwen Code",
    "type": "harness",
    "region": "cn",
-   "last_ok": "2026-11-19T06:00:57Z",
+   "last_ok": "2026-11-19T12:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9432,7 +9588,7 @@
    "name": "OpenHands",
    "type": "agent",
    "region": "global",
-   "last_ok": "2026-11-19T06:00:57Z",
+   "last_ok": "2026-11-19T12:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9441,7 +9597,7 @@
    "name": "Manus",
    "type": "agent",
    "region": "global",
-   "last_ok": "2026-11-19T06:00:57Z",
+   "last_ok": "2026-11-19T12:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9450,7 +9606,7 @@
    "name": "Dify",
    "type": "agent",
    "region": "global",
-   "last_ok": "2026-11-19T06:00:57Z",
+   "last_ok": "2026-11-19T12:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9459,7 +9615,7 @@
    "name": "Modal",
    "type": "gpu",
    "region": "global",
-   "last_ok": "2026-11-19T06:00:57Z",
+   "last_ok": "2026-11-19T12:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9470,7 +9626,7 @@
    "region": "global",
    "last_ok": "2026-11-04T12:00:57Z",
    "last_error": "ValueError: no candidate lines",
-   "fail_count": 59
+   "fail_count": 60
   },
   {
    "sid": "vast",
@@ -9479,7 +9635,7 @@
    "region": "global",
    "last_ok": null,
    "last_error": "ValueError: no candidate lines",
-   "fail_count": 65
+   "fail_count": 66
   },
   {
    "sid": "lambda",
@@ -9488,7 +9644,7 @@
    "region": "global",
    "last_ok": null,
    "last_error": "ValueError: no candidate lines",
-   "fail_count": 65
+   "fail_count": 66
   },
   {
    "sid": "colab",
@@ -9497,7 +9653,7 @@
    "region": "global",
    "last_ok": null,
    "last_error": "ValueError: no candidate lines",
-   "fail_count": 65
+   "fail_count": 66
   },
   {
    "sid": "kaggle",
@@ -9505,15 +9661,15 @@
    "type": "gpu",
    "region": "global",
    "last_ok": "2026-11-19T06:00:57Z",
-   "last_error": null,
-   "fail_count": 0
+   "last_error": "HTTPError: HTTP Error 403: Forbidden",
+   "fail_count": 1
   },
   {
    "sid": "github-student",
    "name": "GitHub Student Pack",
    "type": "student",
    "region": "global",
-   "last_ok": "2026-11-19T06:00:57Z",
+   "last_ok": "2026-11-19T12:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9522,7 +9678,7 @@
    "name": "Google for Startups Cloud",
    "type": "student",
    "region": "global",
-   "last_ok": "2026-11-19T06:00:57Z",
+   "last_ok": "2026-11-19T12:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9531,7 +9687,7 @@
    "name": "AWS Activate",
    "type": "student",
    "region": "global",
-   "last_ok": "2026-11-19T06:00:57Z",
+   "last_ok": "2026-11-19T12:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9540,7 +9696,7 @@
    "name": "Azure for Students",
    "type": "student",
    "region": "global",
-   "last_ok": "2026-11-19T06:00:57Z",
+   "last_ok": "2026-11-19T12:00:57Z",
    "last_error": null,
    "fail_count": 0
   }
