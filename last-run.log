@@ -1,24 +1,24 @@
-FAIL deepseek           RemoteDisconnected: Remote end closed connection without response
-OK   siliconflow        2 snippets
+OK   deepseek           1 snippets
+OK   siliconflow        3 snippets
 OK   bigmodel           3 snippets
 OK   aliyun-bailian     2 snippets
 FAIL volcengine         ValueError: no candidate lines
 FAIL openrouter         ValueError: no candidate lines
 FAIL groq               ValueError: no candidate lines
 OK   cerebras           1 snippets
-OK   together           2 snippets
+FAIL together           ValueError: no candidate lines
 OK   google-ai          3 snippets
-OK   mistral            2 snippets
+OK   mistral            1 snippets
 OK   cloudflare-ai      2 snippets
 OK   nvidia-nim         2 snippets
 OK   cursor             1 snippets
 OK   windsurf           1 snippets
 OK   gemini-cli         1 snippets
 OK   qwen-code          1 snippets
-OK   openhands          1 snippets
-OK   manus              2 snippets
-OK   dify               1 snippets
-OK   modal              3 snippets
+OK   openhands          2 snippets
+FAIL manus              ValueError: no candidate lines
+OK   dify               2 snippets
+OK   modal              2 snippets
 FAIL runpod             ValueError: no candidate lines
 FAIL vast               ValueError: no candidate lines
 FAIL lambda             ValueError: no candidate lines
@@ -29,4 +29,4 @@ OK   gcp-startup        3 snippets
 OK   aws-activate       3 snippets
 OK   azure-students     3 snippets
 
-26 ok / 4 fail → 732 offers → docs/data.json
+26 ok / 4 fail → 745 offers → docs/data.json
