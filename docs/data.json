@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T06:00:57Z",
+ "generated_at": "2026-11-25T12:00:57Z",
  "ok": 26,
  "fail": 4,
  "offers": [
@@ -830,7 +830,7 @@
    "url": "https://www.all-hands.dev/",
    "text": "OpenHands Teams 可免费试用 30 天｜Try OpenHands Teams, free for 30 days →",
    "first_seen": "2026-11-18T18:00:57Z",
-   "last_seen": "2026-11-24T18:00:57Z",
+   "last_seen": "2026-11-25T12:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -1039,6 +1039,19 @@
    "text": "开发者自助按量付费，提供5美元免费起始额度｜Self-serve pay-as-you-go with free $5 credit to start ***",
    "first_seen": "2026-11-06T12:00:57Z",
    "last_seen": "2026-11-22T12:00:57Z",
+   "status": "live",
+   "is_new": false,
+   "source_error": null
+  },
+  {
+   "sid": "cerebras",
+   "provider": "Cerebras",
+   "type": "api",
+   "region": "global",
+   "url": "https://www.cerebras.ai/pricing",
+   "text": "开发者自助按量付费，新用户可获 5 美元免费起始额度。｜Self-serve pay-as-you-go with free $5 credit to start ***",
+   "first_seen": "2026-11-09T00:00:58Z",
+   "last_seen": "2026-11-25T12:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -2409,6 +2422,19 @@
    "source_error": null
   },
   {
+   "sid": "cloudflare-ai",
+   "provider": "Cloudflare Workers AI",
+   "type": "api",
+   "region": "global",
+   "url": "https://developers.cloudflare.com/workers-ai/platform/pricing/",
+   "text": "Workers 免费计划永久提供每天 10,000 Neurons 额度，超出后需升级到付费计划；额度每日 00:00 UTC 重置。｜Workers Free\n10,000 Neurons per day\nN/A - Upgrade to Workers Paid",
+   "first_seen": "2026-11-25T12:00:57Z",
+   "last_seen": "2026-11-25T12:00:57Z",
+   "status": "live",
+   "is_new": true,
+   "source_error": null
+  },
+  {
    "sid": "deepseek",
    "provider": "DeepSeek 开放平台",
    "type": "api",
@@ -2419,7 +2445,7 @@
    "last_seen": "2026-11-22T12:00:57Z",
    "status": "live",
    "is_new": false,
-   "source_error": null
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "deepseek",
@@ -2432,7 +2458,7 @@
    "last_seen": "2026-11-25T06:00:57Z",
    "status": "live",
    "is_new": true,
-   "source_error": null
+   "source_error": "ValueError: no candidate lines"
   },
   {
    "sid": "google-ai",
@@ -2481,7 +2507,7 @@
    "url": "https://ai.google.dev/gemini-api/docs/pricing",
    "text": "Input price | Free of charge | $1.50",
    "first_seen": "2026-11-12T18:00:58Z",
-   "last_seen": "2026-11-25T06:00:57Z",
+   "last_seen": "2026-11-25T12:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -2494,7 +2520,7 @@
    "url": "https://ai.google.dev/gemini-api/docs/pricing",
    "text": "Output price (including thinking tokens) | Free of charge | $7.50",
    "first_seen": "2026-11-12T18:00:58Z",
-   "last_seen": "2026-11-25T06:00:57Z",
+   "last_seen": "2026-11-25T12:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -2507,7 +2533,7 @@
    "url": "https://ai.google.dev/gemini-api/docs/pricing",
    "text": "Context caching price | Free of charge | $0.075 Implicit caching only (explicit caching is not supported).",
    "first_seen": "2026-11-12T18:00:58Z",
-   "last_seen": "2026-11-25T06:00:57Z",
+   "last_seen": "2026-11-25T12:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -2819,7 +2845,7 @@
    "url": "https://build.nvidia.com/",
    "text": "* How many requests can I make?The free tier runs on rate limits - up to 40 requests per minute (RPM) for most models, with no per-token billing. Your personal rate limit is shown in the top-right of the dashboard.",
    "first_seen": "2026-11-04T00:00:57Z",
-   "last_seen": "2026-11-25T06:00:57Z",
+   "last_seen": "2026-11-25T12:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -2832,7 +2858,7 @@
    "url": "https://build.nvidia.com/",
    "text": "* Why are the API endpoints free?We believe open model inference offers the best cost-performance for most workloads. The free tier exists so you can verify that yourself before committing to anything.",
    "first_seen": "2026-11-04T00:00:57Z",
-   "last_seen": "2026-11-25T06:00:57Z",
+   "last_seen": "2026-11-25T12:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -4457,7 +4483,7 @@
    "url": "https://open.bigmodel.cn/pricing",
    "text": "视觉模型 GLM-4.6V-Flash 输入、输出、缓存全部免费｜视觉模型 GLM-4.6V-Flash：输入免费、输出免费、缓存免费",
    "first_seen": "2026-11-13T06:00:57Z",
-   "last_seen": "2026-11-17T00:00:57Z",
+   "last_seen": "2026-11-25T12:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -4944,6 +4970,19 @@
    "source_error": null
   },
   {
+   "sid": "bigmodel",
+   "provider": "智谱 BigModel",
+   "type": "api",
+   "region": "cn",
+   "url": "https://open.bigmodel.cn/pricing",
+   "text": "文本模型 GLM-4.7-Flash（200K 上下文）输入、输出、缓存全部免费，为永久免费 API 模型｜文本模型 GLM-4.7-Flash（200K上下文）：输入免费、输出免费、缓存免费",
+   "first_seen": "2026-11-25T12:00:57Z",
+   "last_seen": "2026-11-25T12:00:57Z",
+   "status": "live",
+   "is_new": true,
+   "source_error": null
+  },
+  {
    "sid": "volcengine",
    "provider": "火山方舟",
    "type": "api",
@@ -4977,7 +5016,7 @@
    "url": "https://www.volcengine.com/docs/82379/1099320",
    "text": "Managed Agents 首次开通即赠送免费额度包: 30 小时 Agent 运行时 + 500 次 web_search 调用 。 ​",
    "first_seen": "2026-11-04T18:00:57Z",
-   "last_seen": "2026-11-24T12:00:57Z",
+   "last_seen": "2026-11-25T12:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -5146,7 +5185,7 @@
    "url": "https://www.volcengine.com/docs/82379/1099320",
    "text": "可在 费用中心 查看免费额度使用情况;请注意费用中心数据更新与实际调用存在小时级延迟。 ​",
    "first_seen": "2026-11-14T00:00:57Z",
-   "last_seen": "2026-11-24T12:00:57Z",
+   "last_seen": "2026-11-25T12:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -5562,7 +5601,7 @@
    "url": "https://siliconflow.cn/pricing",
    "text": "输入 UTF-8 字节 每千字符（UTF-8） 免费",
    "first_seen": "2026-11-03T17:34:19Z",
-   "last_seen": "2026-11-24T12:00:57Z",
+   "last_seen": "2026-11-25T12:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -6842,6 +6881,19 @@
    "source_error": null
   },
   {
+   "sid": "kaggle",
+   "provider": "Kaggle Notebooks",
+   "type": "gpu",
+   "region": "global",
+   "url": "https://www.kaggle.com/docs/efficient-gpu-usage",
+   "text": "每周免费 GPU 额度为 30 小时（视需求可能更高），每周重置｜The quota resets weekly and is 30 hours or sometimes higher depending on demand and resources",
+   "first_seen": "2026-11-25T12:00:57Z",
+   "last_seen": "2026-11-25T12:00:57Z",
+   "status": "live",
+   "is_new": true,
+   "source_error": null
+  },
+  {
    "sid": "modal",
    "provider": "Modal",
    "type": "gpu",
@@ -6966,7 +7018,7 @@
    "url": "https://modal.com/pricing",
    "text": "研究生、实验室与研究者可申请最高 $10k 免费计算额度｜Graduate students, labs, and researchers can get up to $10k free compute credits on Modal",
    "first_seen": "2026-11-11T06:00:57Z",
-   "last_seen": "2026-11-11T06:00:57Z",
+   "last_seen": "2026-11-25T12:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -7330,7 +7382,7 @@
    "url": "https://modal.com/pricing",
    "text": "早期创业公司可申请免费计算额度（Startup Credits）｜Early-stage startups can get free compute credits on Modal.",
    "first_seen": "2026-11-15T06:00:57Z",
-   "last_seen": "2026-11-24T18:00:57Z",
+   "last_seen": "2026-11-25T12:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -8402,6 +8454,19 @@
    "source_error": null
   },
   {
+   "sid": "modal",
+   "provider": "Modal",
+   "type": "gpu",
+   "region": "global",
+   "url": "https://modal.com/pricing",
+   "text": "Starter 免费档：$0/月，每月赠送 $30 计算额度（GPU、CPU、内存），含 3 个席位｜Starter has no monthly fee and includes $30 of compute (GPUs, CPUs, Memory) per month.",
+   "first_seen": "2026-11-25T12:00:57Z",
+   "last_seen": "2026-11-25T12:00:57Z",
+   "status": "live",
+   "is_new": true,
+   "source_error": null
+  },
+  {
    "sid": "cursor",
    "provider": "Cursor",
    "type": "harness",
@@ -8851,7 +8916,7 @@
    "url": "https://github.com/google-gemini/gemini-cli",
    "text": "No free tier or Google AI plans: Free individual access and Google AI Pro / Ultra (Google One) moved to Antigravity CLI on June 18, 2026 ( transition post ).",
    "first_seen": "2026-11-03T17:34:19Z",
-   "last_seen": "2026-11-25T06:00:57Z",
+   "last_seen": "2026-11-25T12:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -9559,6 +9624,19 @@
    "source_error": null
   },
   {
+   "sid": "windsurf",
+   "provider": "Windsurf",
+   "type": "harness",
+   "region": "global",
+   "url": "https://windsurf.com/pricing",
+   "text": "永久免费档：$0/月，含轻度 agent 额度、有限模型、无限 inline edits 和 Tab 补全。｜The Free plan includes a light quota to code with agents, limited model availability, unlimited inline edits, and unlimited Tab completions.",
+   "first_seen": "2026-11-25T12:00:57Z",
+   "last_seen": "2026-11-25T12:00:57Z",
+   "status": "live",
+   "is_new": true,
+   "source_error": null
+  },
+  {
    "sid": "aws-activate",
    "provider": "AWS Activate",
    "type": "student",
@@ -9566,7 +9644,7 @@
    "url": "https://aws.amazon.com/activate/",
    "text": "免费获取使用 AWS 产品和服务的实践经验",
    "first_seen": "2026-11-03T17:34:19Z",
-   "last_seen": "2026-11-25T06:00:57Z",
+   "last_seen": "2026-11-25T12:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -9579,7 +9657,7 @@
    "url": "https://azure.microsoft.com/en-us/free/students/",
    "text": "$1,000 in Azure credits instantly—no application required",
    "first_seen": "2026-11-03T17:34:19Z",
-   "last_seen": "2026-11-25T06:00:57Z",
+   "last_seen": "2026-11-25T12:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -9592,7 +9670,7 @@
    "url": "https://azure.microsoft.com/en-us/free/students/",
    "text": "Unlock up to $5,000 in total credits with business verification",
    "first_seen": "2026-11-03T17:34:19Z",
-   "last_seen": "2026-11-25T06:00:57Z",
+   "last_seen": "2026-11-25T12:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -9605,7 +9683,7 @@
    "url": "https://azure.microsoft.com/en-us/free/students/",
    "text": "Credits valid for 90 days (initial) and 180 days (post-verification)",
    "first_seen": "2026-11-03T17:34:19Z",
-   "last_seen": "2026-11-25T06:00:57Z",
+   "last_seen": "2026-11-25T12:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -9657,7 +9735,7 @@
    "url": "https://education.github.com/pack",
    "text": "$50 in MongoDB Atlas Credits, plus access to MongoDB Compass and MongoDB University including free certification valued at $150.",
    "first_seen": "2026-11-03T17:34:19Z",
-   "last_seen": "2026-11-25T06:00:57Z",
+   "last_seen": "2026-11-25T12:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -9670,7 +9748,7 @@
    "url": "https://education.github.com/pack",
    "text": "Get $25 in Stripe credits to offset fees on products including Stripe Payments, Billing, and more.",
    "first_seen": "2026-11-03T17:34:19Z",
-   "last_seen": "2026-11-25T06:00:57Z",
+   "last_seen": "2026-11-25T12:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -9683,7 +9761,7 @@
    "url": "https://education.github.com/pack",
    "text": "Free 6-month trial while you are a student.",
    "first_seen": "2026-11-03T17:34:19Z",
-   "last_seen": "2026-11-25T06:00:57Z",
+   "last_seen": "2026-11-25T12:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -9696,7 +9774,7 @@
    "url": "https://cloud.google.com/startup",
    "text": "获享 $300 赠金以及 20 多种提供“始终免费”用量的产品。",
    "first_seen": "2026-11-03T17:34:19Z",
-   "last_seen": "2026-11-25T06:00:57Z",
+   "last_seen": "2026-11-25T12:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -9709,7 +9787,7 @@
    "url": "https://cloud.google.com/startup",
    "text": "AI 赋能的云原生数据迁移服务，可免费使用。",
    "first_seen": "2026-11-03T17:34:19Z",
-   "last_seen": "2026-11-25T06:00:57Z",
+   "last_seen": "2026-11-25T12:00:57Z",
    "status": "live",
    "is_new": false,
    "source_error": null
@@ -9722,15 +9800,15 @@
    "type": "api",
    "region": "cn",
    "last_ok": "2026-11-25T06:00:57Z",
-   "last_error": null,
-   "fail_count": 0
+   "last_error": "ValueError: no candidate lines",
+   "fail_count": 1
   },
   {
    "sid": "siliconflow",
    "name": "硅基流动 SiliconFlow",
    "type": "api",
    "region": "cn",
-   "last_ok": "2026-11-25T06:00:57Z",
+   "last_ok": "2026-11-25T12:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9739,7 +9817,7 @@
    "name": "智谱 BigModel",
    "type": "api",
    "region": "cn",
-   "last_ok": "2026-11-25T06:00:57Z",
+   "last_ok": "2026-11-25T12:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9748,7 +9826,7 @@
    "name": "阿里云百炼",
    "type": "api",
    "region": "cn",
-   "last_ok": "2026-11-25T06:00:57Z",
+   "last_ok": "2026-11-25T12:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9757,7 +9835,7 @@
    "name": "火山方舟",
    "type": "api",
    "region": "cn",
-   "last_ok": "2026-11-25T06:00:57Z",
+   "last_ok": "2026-11-25T12:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9768,7 +9846,7 @@
    "region": "global",
    "last_ok": "2026-11-13T12:00:57Z",
    "last_error": "ValueError: no candidate lines",
-   "fail_count": 47
+   "fail_count": 48
   },
   {
    "sid": "groq",
@@ -9777,14 +9855,14 @@
    "region": "global",
    "last_ok": null,
    "last_error": "ValueError: no candidate lines",
-   "fail_count": 89
+   "fail_count": 90
   },
   {
    "sid": "cerebras",
    "name": "Cerebras",
    "type": "api",
    "region": "global",
-   "last_ok": "2026-11-25T06:00:57Z",
+   "last_ok": "2026-11-25T12:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9795,14 +9873,14 @@
    "region": "global",
    "last_ok": "2026-11-24T12:00:57Z",
    "last_error": "ValueError: no candidate lines",
-   "fail_count": 3
+   "fail_count": 4
   },
   {
    "sid": "google-ai",
    "name": "Google Gemini API",
    "type": "api",
    "region": "global",
-   "last_ok": "2026-11-25T06:00:57Z",
+   "last_ok": "2026-11-25T12:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9811,7 +9889,7 @@
    "name": "Mistral AI",
    "type": "api",
    "region": "global",
-   "last_ok": "2026-11-25T06:00:57Z",
+   "last_ok": "2026-11-25T12:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9820,7 +9898,7 @@
    "name": "Cloudflare Workers AI",
    "type": "api",
    "region": "global",
-   "last_ok": "2026-11-25T06:00:57Z",
+   "last_ok": "2026-11-25T12:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9829,7 +9907,7 @@
    "name": "NVIDIA NIM",
    "type": "api",
    "region": "global",
-   "last_ok": "2026-11-25T06:00:57Z",
+   "last_ok": "2026-11-25T12:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9838,7 +9916,7 @@
    "name": "Cursor",
    "type": "harness",
    "region": "global",
-   "last_ok": "2026-11-25T06:00:57Z",
+   "last_ok": "2026-11-25T12:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9847,7 +9925,7 @@
    "name": "Windsurf",
    "type": "harness",
    "region": "global",
-   "last_ok": "2026-11-25T06:00:57Z",
+   "last_ok": "2026-11-25T12:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9856,7 +9934,7 @@
    "name": "Gemini CLI",
    "type": "harness",
    "region": "global",
-   "last_ok": "2026-11-25T06:00:57Z",
+   "last_ok": "2026-11-25T12:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9865,7 +9943,7 @@
    "name": "Qwen Code",
    "type": "harness",
    "region": "cn",
-   "last_ok": "2026-11-25T06:00:57Z",
+   "last_ok": "2026-11-25T12:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9874,7 +9952,7 @@
    "name": "OpenHands",
    "type": "agent",
    "region": "global",
-   "last_ok": "2026-11-25T06:00:57Z",
+   "last_ok": "2026-11-25T12:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9885,14 +9963,14 @@
    "region": "global",
    "last_ok": "2026-11-24T06:00:57Z",
    "last_error": "ValueError: no candidate lines",
-   "fail_count": 4
+   "fail_count": 5
   },
   {
    "sid": "dify",
    "name": "Dify",
    "type": "agent",
    "region": "global",
-   "last_ok": "2026-11-25T06:00:57Z",
+   "last_ok": "2026-11-25T12:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9901,7 +9979,7 @@
    "name": "Modal",
    "type": "gpu",
    "region": "global",
-   "last_ok": "2026-11-25T06:00:57Z",
+   "last_ok": "2026-11-25T12:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9912,7 +9990,7 @@
    "region": "global",
    "last_ok": "2026-11-04T12:00:57Z",
    "last_error": "ValueError: no candidate lines",
-   "fail_count": 83
+   "fail_count": 84
   },
   {
    "sid": "vast",
@@ -9921,7 +9999,7 @@
    "region": "global",
    "last_ok": null,
    "last_error": "ValueError: no candidate lines",
-   "fail_count": 89
+   "fail_count": 90
   },
   {
    "sid": "lambda",
@@ -9930,7 +10008,7 @@
    "region": "global",
    "last_ok": null,
    "last_error": "ValueError: no candidate lines",
-   "fail_count": 89
+   "fail_count": 90
   },
   {
    "sid": "colab",
@@ -9939,14 +10017,14 @@
    "region": "global",
    "last_ok": null,
    "last_error": "ValueError: no candidate lines",
-   "fail_count": 89
+   "fail_count": 90
   },
   {
    "sid": "kaggle",
    "name": "Kaggle Notebooks",
    "type": "gpu",
    "region": "global",
-   "last_ok": "2026-11-25T06:00:57Z",
+   "last_ok": "2026-11-25T12:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9955,7 +10033,7 @@
    "name": "GitHub Student Pack",
    "type": "student",
    "region": "global",
-   "last_ok": "2026-11-25T06:00:57Z",
+   "last_ok": "2026-11-25T12:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9964,7 +10042,7 @@
    "name": "Google for Startups Cloud",
    "type": "student",
    "region": "global",
-   "last_ok": "2026-11-25T06:00:57Z",
+   "last_ok": "2026-11-25T12:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9973,7 +10051,7 @@
    "name": "AWS Activate",
    "type": "student",
    "region": "global",
-   "last_ok": "2026-11-25T06:00:57Z",
+   "last_ok": "2026-11-25T12:00:57Z",
    "last_error": null,
    "fail_count": 0
   },
@@ -9982,7 +10060,7 @@
    "name": "Azure for Students",
    "type": "student",
    "region": "global",
-   "last_ok": "2026-11-25T06:00:57Z",
+   "last_ok": "2026-11-25T12:00:57Z",
    "last_error": null,
    "fail_count": 0
   }
